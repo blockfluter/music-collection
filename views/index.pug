@@ -3,42 +3,53 @@ extends layout
 block content
   h1= title
   form(method='post' action='/')
-    section
+    section#titlesection
       label='Title'
       select(onChange='copy(this, "title")')
         option=''
         each title in titles
           option=title
-      input(id='title' name='title' type='text')
-    section
+      input(id='title' name='title' type='text' value=values.title)
+    section#composersection
       label='Composer'
       select(onChange='copy(this, "composer")')
         option=''
         each composer in composers
           option=composer
-      input(id='composer' name='composer' type='text')
-    section
+      input(id='composer' name='composer' type='text' value=values.composer)
+    section#periodsection
+      label='Period'
+      select(onChange='copy(this, "period")')
+        option=''
+        each period in periods
+          option=period
+      input(id='period' name='period' type='text' value=values.period)
+    section#voicingsection
       label='Voicing'
       select(onChange='copy(this, "voicing")')
         option=''
         each voicing in voicings
           option=voicing
-      input(id='voicing' name='voicing' type='text')
-    section
+      input(id='voicing' name='voicing' type='text' value=values.voicing)
+    section#editionsection
       label='Edition'
       select(onChange='copy(this, "edition")')
         option=''
         each edition in editions
           option=edition
-      input(id='edition' name='edition' type='text')
+      input(id='edition' name='edition' type='text' value=values.edition)
     button(type='submit')='Add Item'
   table
     thead
       tr
         th
+          a(href='/sort?key=id')='ID'
+        th
           a(href='/sort?key=title')='Title'
         th
           a(href='/sort?key=composer')='Composer'
+        th
+          a(href='/sort?key=period')='Period'
         th
           a(href='/sort?key=voicing')='Voicing'
         th
@@ -46,7 +57,9 @@ block content
     tbody    
       each item in data
         tr(class=`status${item.status}`)
+          td(width='20')=item.id
           td=item.title
           td=item.composer
+          td=item.period
           td=item.voicing
           td=item.edition

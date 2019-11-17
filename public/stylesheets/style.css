@@ -10,9 +10,23 @@ input, select {
 }
 
 form section {
-  width:23%;
   display:inline-block;
   margin-right:1em;
+}
+section#titlesection{
+  width:25%
+}
+section#composersection{
+  width:25%  
+}
+section#periodsection{
+  width:15%  
+}
+section#editionsection{
+  width:20%
+}
+section#voicingsection{
+  width:10%
 }
 form section label{
   width:100%;
@@ -32,6 +46,7 @@ button
   font-size:130%;
 }
 table {
+  margin-top:1em;
   width:100%;
 }
 th {
