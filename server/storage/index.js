@@ -3,21 +3,20 @@
 var fs = require('fs');
 
 var Storage = function (opts) {
-	var self = this;
 	var defaults = {
 		'file': './data/default.json'
 	};
 
 	this.options = { ...defaults, opts };
 
-	this.validate = function (obj) {
+	const validate = (obj) => {
 		return '' !== obj.title
 			&& '' !== obj.voicing
 			&& '' !== obj.composer
 			&& '' !== obj.edition;
 	}
 
-	this.findIndex = function (obj) {
+	const findIndex = (obj) => {
 		return this.data.findIndex(item => {
 			return item.title === obj.title
 				&& item.voicing === obj.voicing
@@ -27,44 +26,55 @@ var Storage = function (opts) {
 		});
 	}
 
-	this.add = function (obj) {
-		const data = this.data.map(item => {
+	const add = (obj) => {
+		const tmp = this.data.map(item => {
 			return { ...item, status: 0 }
 		});
-		if (this.validate(obj)) {
-			const index = this.findIndex(obj);
+		if (validate(obj)) {
+			const index = findIndex(obj);
 			if (index < 0) {
-				this.data = [...data, { ...obj, id: data.length, status: 1 }]
+				this.data = [...tmp, { ...obj, id:data.length, status: 1 }]
 			} else {
-				this.data = [...data.slice(0, index), { ...obj, id: this.data.length, status: 1 }, ...data.slice(index + 1, -1)]
+				this.data = [
+					...tmp.slice(0, index),
+					{ ...obj, id: tmp.length, status: 1 },
+					...tmp.slice(index + 1, -1)]
 			}
 		}
 	}
 
-	this.del = function (num) {
+	const del = (num) => {
 		throw Error('not implemented');
 	}
 
-	this.save = function () {
-		fs.writeFile(this.options.file, JSON.stringify(this.data), (k, v) => {
+	const save = () => {
+		fs.writeFile(this.options.file, JSON.stringify(this.data), (k, v) =>
+		{
 			console.log(k, v);
 			return true;
 		});
 	}
 
-	this.load = function () {
+	const load = () => {
 		this.data = JSON.parse(fs.readFileSync(this.options.file).toString());
 	}
 
-	this.data = function () {
+	const data = () => {
 		return this.data;
 	}
 
-	if (fs.existsSync(self.options.file)) {
-		this.load();
+	this.__proto__ = {
+		...this.__proto__,
+		save,
+		load,
+		add
+	}
+
+	if (fs.existsSync(this.options.file)) {
+		load();
 	} else {
 		this.data = [];
-		this.save();
+		save();
 	}
 }
 
