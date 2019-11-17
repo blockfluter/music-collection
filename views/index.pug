@@ -1,0 +1,52 @@
+extends layout
+
+block content
+  h1= title
+  form(method='post' action='/')
+    section
+      label='Title'
+      select(onChange='copy(this, "title")')
+        option=''
+        each title in titles
+          option=title
+      input(id='title' name='title' type='text')
+    section
+      label='Composer'
+      select(onChange='copy(this, "composer")')
+        option=''
+        each composer in composers
+          option=composer
+      input(id='composer' name='composer' type='text')
+    section
+      label='Voicing'
+      select(onChange='copy(this, "voicing")')
+        option=''
+        each voicing in voicings
+          option=voicing
+      input(id='voicing' name='voicing' type='text')
+    section
+      label='Edition'
+      select(onChange='copy(this, "edition")')
+        option=''
+        each edition in editions
+          option=edition
+      input(id='edition' name='edition' type='text')
+    button(type='submit')='Add Item'
+  table
+    thead
+      tr
+        th
+          a(href='/sort?key=title')='Title'
+        th
+          a(href='/sort?key=composer')='Composer'
+        th
+          a(href='/sort?key=voicing')='Voicing'
+        th
+          a(href='/sort?key=edition')='Edition'
+    tbody    
+      each item in data
+        tr(class=`status${item.status}`)
+          td=item.title
+          td=item.composer
+          td=item.voicing
+          td=item.edition
