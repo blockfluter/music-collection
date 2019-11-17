@@ -28,15 +28,15 @@ var Storage = function (opts) {
 	}
 
 	this.add = function (obj) {
-		this.data = this.data.map(item => {
+		const data = this.data.map(item => {
 			return { ...item, status: 0 }
 		});
 		if (this.validate(obj)) {
 			const index = this.findIndex(obj);
 			if (index < 0) {
-				this.data = [...this.data, { ...obj, id:this.data.length, status: 1 }]
+				this.data = [...data, { ...obj, id: data.length, status: 1 }]
 			} else {
-				this.data = [...this.data.slice(0, index), { ...obj, id:this.data.length, status: 1 }, ...this.data.slice(0, index + 1)]
+				this.data = [...data.slice(0, index), { ...obj, id: this.data.length, status: 1 }, ...data.slice(index + 1, -1)]
 			}
 		}
 	}
@@ -46,7 +46,10 @@ var Storage = function (opts) {
 	}
 
 	this.save = function () {
-		fs.writeFile(this.options.file, JSON.stringify(this.data), function () { return true; });
+		fs.writeFile(this.options.file, JSON.stringify(this.data), (k, v) => {
+			console.log(k, v);
+			return true;
+		});
 	}
 
 	this.load = function () {
