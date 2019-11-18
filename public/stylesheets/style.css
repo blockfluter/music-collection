@@ -8,7 +8,15 @@ a {
 input, select {
   font-size:120%;
 }
-
+h1.title {
+  display:inline-block;
+}
+span.buttons{
+  position:absolute;
+  right:2em;
+  top:0;
+  display:block;
+}
 form section {
   display:inline-block;
   margin-right:1em;
@@ -41,9 +49,25 @@ form section input{
 button 
 {
   margin-top:1em;
-  background: #229;
   color:white;
   font-size:130%;
+  padding:.2em;
+  margin-right:.5em;
+  border-radius:4px;
+  width:8em;
+}
+button.action 
+{
+  background-color:rgb(41, 77, 41)
+}
+button.warning
+{
+  background-color:rgb(196, 171, 60)
+}
+button.normal
+{
+  background-color:rgb(124, 170, 255)
+
 }
 table {
   margin-top:1em;

@@ -10,3 +10,9 @@ window.onload = (event) => {
 		});
 	},1000);
 }
+
+function loadRow(tr) {
+	Array.prototype.forEach.call(tr.getElementsByTagName('td'), e => {
+		document.getElementById(e.dataset.key).value = e.innerText;	
+	});
+}

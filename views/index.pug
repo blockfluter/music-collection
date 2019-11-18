@@ -1,65 +1,81 @@
 extends layout
 
 block content
-  h1= title
+  
+  h1.title= title
+
   form(method='post' action='/')
-    section#titlesection
-      label='Title'
-      select(onChange='copy(this, "title")')
-        option=''
-        each title in titles
-          option=title
-      input(id='title' name='title' type='text' value=values.title)
-    section#composersection
-      label='Composer'
-      select(onChange='copy(this, "composer")')
-        option=''
-        each composer in composers
-          option=composer
-      input(id='composer' name='composer' type='text' value=values.composer)
-    section#periodsection
-      label='Period'
-      select(onChange='copy(this, "period")')
-        option=''
-        each period in periods
-          option=period
-      input(id='period' name='period' type='text' value=values.period)
-    section#voicingsection
-      label='Voicing'
-      select(onChange='copy(this, "voicing")')
-        option=''
-        each voicing in voicings
-          option=voicing
-      input(id='voicing' name='voicing' type='text' value=values.voicing)
-    section#editionsection
-      label='Edition'
-      select(onChange='copy(this, "edition")')
-        option=''
-        each edition in editions
-          option=edition
-      input(id='edition' name='edition' type='text' value=values.edition)
-    button(type='submit')='Add Item'
+    span.buttons
+      button.action(type='submit' formaction='add')='Add Item'
+      button.warning(type='submit' formaction='update')='Update Item'
+      if filter
+        button.normal(type='submit' formaction='clearfilter')='Clear'
+      else
+        button.normal(type='submit' formaction='setfilter')='Filter'
+    div    
+      input(id='id' name='id' type='hidden' value=values.id)
+      section#titlesection
+        label='Title'
+        select(onChange='copy(this, "title")')
+          option=''
+          each title in titles
+            option=title
+        input(id='title' name='title' type='text' value=values.title)
+      section#composersection
+        label='Composer'
+        select(onChange='copy(this, "composer")')
+          option=''
+          each composer in composers
+            option=composer
+        input(id='composer' name='composer' type='text' value=values.composer)
+      section#periodsection
+        label='Period'
+        select(onChange='copy(this, "period")')
+          option=''
+          each period in periods
+            option=period
+        input(id='period' name='period' type='text' value=values.period)
+      section#voicingsection
+        label='Voicing'
+        select(onChange='copy(this, "voicing")')
+          option=''
+          each voicing in voicings
+            option=voicing
+        input(id='voicing' name='voicing' type='text' value=values.voicing)
+      section#editionsection
+        label='Edition'
+        select(onChange='copy(this, "edition")')
+          option=''
+          each edition in editions
+            option=edition
+        input(id='edition' name='edition' type='text' value=values.edition)
   table
     thead
       tr
         th
-          a(href='/sort?key=id')='ID'
+          - var order = sort.key === 'id' ? (sort.order==='dec' ? 'inc' : 'dec') : 'inc';
+          a(href=`/sort?key=id&order=${order}`)='ID'
         th
-          a(href='/sort?key=title')='Title'
+          - var order = sort.key === 'title' ? (sort.order==='dec' ? 'inc' : 'dec') : 'inc';
+          a(href=`/sort?key=title&order=${order}`)='Title'
         th
-          a(href='/sort?key=composer')='Composer'
+          - var order = sort.key === 'composer' ? (sort.order==='dec' ? 'inc' : 'dec') : 'inc';
+          a(href=`/sort?key=composer&order=${order}`)='Composer'
         th
-          a(href='/sort?key=period')='Period'
+          - var order = sort.key === 'period' ? (sort.order==='dec' ? 'inc' : 'dec') : 'inc';
+          a(href=`/sort?key=period&order=${order}`)='Period'
         th
-          a(href='/sort?key=voicing')='Voicing'
+          - var order = sort.key === 'voicing' ? (sort.order==='dec' ? 'inc' : 'dec') : 'inc';
+          a(href=`/sort?key=voicing&order=${order}`)='Voicing'
         th
-          a(href='/sort?key=edition')='Edition'
+          - var order = sort.key === 'edition' ? (sort.order==='dec' ? 'inc' : 'dec') : 'inc';
+          a(href=`/sort?key=edition&order=${order}`)='Edition'
     tbody    
       each item in data
-        tr(class=`status${item.status}`)
-          td(width='20')=item.id
-          td=item.title
-          td=item.composer
-          td=item.period
-          td=item.voicing
-          td=item.edition
+        tr(onclick='loadRow(this)', class=`status${item.status?item.status:''}`)
+          td(data-key='id', width='20')=item.id
+          td(data-key='title')=item.title
+          td(data-key='composer')=item.composer
+          td(data-key='period')=item.period
+          td(data-key='voicing')=item.voicing
+          td(data-key='edition')=item.edition
