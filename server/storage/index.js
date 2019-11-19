@@ -65,7 +65,7 @@ var Storage = function (opts) {
 				_data = [
 					...tmp.slice(0, index),
 					{ ...obj, status: 1 },
-					...tmp.slice(index + 1, -1)]
+					...tmp.slice(index + 1)]
 			}
 		}
 
