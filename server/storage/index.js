@@ -45,7 +45,7 @@ var Storage = function (opts) {
 				_data = [
 					...tmp.slice(0, index),
 					{ ...obj, status: 1 },
-					...tmp.slice(index, -1)]
+					...tmp.slice(index + 1)]
 			}
 		}
 	}
@@ -113,7 +113,7 @@ var Storage = function (opts) {
 	const filterTest = (v1, v2) => {
 		if (!v1)
 			return true;
-		return v1 == v2;
+		return new RegExp(`${v1}`, 'i').exec(v2);
 	}
 	Object.defineProperty(this, "data", {
 		get: () => {
