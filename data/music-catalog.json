@@ -1,242 +1,602 @@
 [
     {
-        "id": "1",
-        "title": "O Lord, make thy servant, Elizabeth",
-        "composer": "William Byrd",
-        "voicing": "SAATTB",
-        "edition": "Davenport",
-        "period": "1600"
+      "id": "1",
+      "title": "O Lord, make thy servant, Elizabeth",
+      "composer": "William Byrd",
+      "voicing": "SAATTB",
+      "edition": "Davenport",
+      "period": "1600"
     },
     {
-        "id": "2",
-        "title": "Forma decens mores - Alles in Ehren",
-        "composer": "Willaert",
-        "voicing": "SATTB",
-        "edition": "Motto Motets from the Copenhagen MS",
-        "period": "renaissance"
+      "id": "2",
+      "title": "Forma decens mores - Alles in Ehren",
+      "composer": "Willaert",
+      "voicing": "SATTB",
+      "edition": "Motto Motets from the Copenhagen MS",
+      "period": "renaissance"
     },
     {
-        "id": 3,
-        "title": "Commoda res et pulchra",
-        "composer": "Presten",
-        "voicing": "SATBB",
-        "edition": "Motto Motets from the Copenhagen MS",
-        "period": "renaissance"
+      "id": 3,
+      "title": "Commoda res et pulchra",
+      "composer": "Presten",
+      "voicing": "SATBB",
+      "edition": "Motto Motets from the Copenhagen MS",
+      "period": "renaissance"
     },
     {
-        "id": 4,
-        "title": "Passa madonna",
-        "composer": "John Coperario",
-        "voicing": "SAATB",
-        "edition": "2 Italian pieces",
-        "period": "renaissance"
+      "id": 4,
+      "title": "Passa madonna",
+      "composer": "John Coperario",
+      "voicing": "SAATB",
+      "edition": "2 Italian pieces",
+      "period": "renaissance"
     },
     {
-        "id": 5,
-        "title": "Dolce mia vita",
-        "composer": "John Coperario",
-        "voicing": "SAATB",
-        "edition": "2 Italian pieces",
-        "period": "renaissance"
+      "id": 5,
+      "title": "Dolce mia vita",
+      "composer": "John Coperario",
+      "voicing": "SAATB",
+      "edition": "2 Italian pieces",
+      "period": "renaissance"
     },
     {
-        "id": 6,
-        "title": "Untitled",
-        "composer": "Guami",
-        "voicing": "SATB",
-        "edition": "photocopy",
-        "period": "renaissance"
+      "id": 6,
+      "title": "Untitled",
+      "composer": "Guami",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "renaissance"
     },
     {
-        "id": 7,
-        "title": "The Silver Swan",
-        "composer": "Orlando Gibbons",
-        "voicing": "SAATB",
-        "edition": "Polyphonic Publications",
-        "period": "renaissance"
+      "id": 7,
+      "title": "The Silver Swan",
+      "composer": "Orlando Gibbons",
+      "voicing": "SAATB",
+      "edition": "Polyphonic Publications",
+      "period": "renaissance"
     },
     {
-        "id": 8,
-        "title": "Fallen Leaves Fugal Fantasy",
-        "composer": "Dominic Bohbot",
-        "voicing": "SATB",
-        "edition": "AMS",
-        "period": "contemporary"
+      "id": 8,
+      "title": "Fallen Leaves Fugal Fantasy",
+      "composer": "Dominic Bohbot",
+      "voicing": "SATB",
+      "edition": "AMS",
+      "period": "contemporary"
     },
     {
-        "id": 9,
-        "title": "Donna s'io miro voi",
-        "composer": "unknown",
-        "voicing": "AATTB",
-        "edition": "Musikverlag",
-        "period": "unknown"
+      "id": 9,
+      "title": "Donna s'io miro voi",
+      "composer": "unknown",
+      "voicing": "AATTB",
+      "edition": "Musikverlag",
+      "period": "unknown"
     },
     {
-        "id": 10,
-        "title": "Quartett-Ubung fur Blockfloten",
-        "composer": "Linde",
-        "voicing": "SATB",
-        "edition": "Schott",
-        "period": "contemporary"
+      "id": 10,
+      "title": "Quartett-Ubung fur Blockfloten",
+      "composer": "Linde",
+      "voicing": "SATB",
+      "edition": "Schott",
+      "period": "contemporary"
     },
     {
-        "id": 11,
-        "title": "Blues Canzonetta",
-        "composer": "Steve Marshall",
-        "voicing": "SATTB",
-        "edition": "AMS",
-        "period": "contemporary"
+      "id": 11,
+      "title": "Blues Canzonetta",
+      "composer": "Steve Marshall",
+      "voicing": "SATTB",
+      "edition": "AMS",
+      "period": "contemporary"
     },
     {
-        "id": 12,
-        "title": "Articulation Exercise III",
-        "composer": "Linde",
-        "voicing": "SATB",
-        "edition": "Schott",
-        "period": "contemporary"
+      "id": 12,
+      "title": "Articulation Exercise III",
+      "composer": "Linde",
+      "voicing": "SATB",
+      "edition": "Schott",
+      "period": "contemporary"
     },
     {
-        "id": 13,
-        "title": "Renaissance Go Marchin' In",
-        "composer": "arr: John Gauger",
-        "voicing": "SATB",
-        "edition": "photocopy",
-        "period": "contemporary"
+      "id": 13,
+      "title": "Renaissance Go Marchin' In",
+      "composer": "arr: John Gauger",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "contemporary"
     },
     {
-        "id": 14,
-        "title": "Leaves in the River",
-        "composer": "Erik Pearson",
-        "voicing": "SATB",
-        "edition": "photocopy",
-        "period": "contemporary"
+      "id": 14,
+      "title": "Leaves in the River",
+      "composer": "Erik Pearson",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "contemporary"
     },
     {
-        "id": 15,
-        "title": "Reflected Light on Buildings (morning)",
-        "composer": "Erik Pearson",
-        "voicing": "SATGb",
-        "edition": "photocopy",
-        "period": "contemporary"
+      "id": 15,
+      "title": "Reflected Light on Buildings (morning)",
+      "composer": "Erik Pearson",
+      "voicing": "SATGb",
+      "edition": "photocopy",
+      "period": "contemporary"
     },
     {
-        "id": 16,
-        "title": "A Day in the Park (suite)",
-        "composer": "LaNoue Davenport",
-        "voicing": "SATB",
-        "edition": "ARS",
-        "period": "contemporary"
+      "id": 16,
+      "title": "A Day in the Park (suite)",
+      "composer": "LaNoue Davenport",
+      "voicing": "SATB",
+      "edition": "ARS",
+      "period": "contemporary"
     },
     {
-        "id": 17,
-        "title": "Nigun dia sin ti - No Day Without You",
-        "composer": "Heger, Uwe",
-        "voicing": "SATB",
-        "edition": "Noetzel",
-        "period": "contemporary"
+      "id": 17,
+      "title": "Nigun dia sin ti - No Day Without You",
+      "composer": "Heger, Uwe",
+      "voicing": "SATB",
+      "edition": "Noetzel",
+      "period": "contemporary"
     },
     {
-        "id": 18,
-        "title": "Signor mio caro",
-        "composer": "daRore, Cipriano",
-        "voicing": "SATB",
-        "edition": "London Pro Musica",
-        "period": "renaissance"
+      "id": 18,
+      "title": "Signor mio caro",
+      "composer": "daRore, Cipriano",
+      "voicing": "SATB",
+      "edition": "London Pro Musica",
+      "period": "renaissance"
     },
     {
-        "id": 19,
-        "title": "Vive Le Roy",
-        "composer": "unknown",
-        "voicing": "SATB",
-        "edition": "photocopy",
-        "period": "renaissance"
+      "id": 19,
+      "title": "Vive Le Roy",
+      "composer": "unknown",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "renaissance"
     },
     {
-        "id": 20,
-        "title": "Ancor che col Partire",
-        "composer": "daRore, Cipriano",
-        "voicing": "SATB",
-        "edition": "photocopy",
-        "period": "renaissance"
+      "id": 20,
+      "title": "Ancor che col Partire",
+      "composer": "daRore, Cipriano",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "renaissance"
     },
     {
-        "id": 21,
-        "title": "The Silver Swan",
-        "composer": "Orlando Gibbons",
-        "voicing": "SAATB",
-        "edition": "photocopy",
-        "period": "renaissance"
+      "id": 21,
+      "title": "The Silver Swan",
+      "composer": "Orlando Gibbons",
+      "voicing": "SAATB",
+      "edition": "photocopy",
+      "period": "renaissance"
     },
     {
-        "id": 22,
-        "title": "Tritt auf den Riegel von der Tur",
-        "composer": "di Lasso, Orlando",
-        "voicing": "SAATB",
-        "edition": "photocopy",
-        "period": "renaissance"
+      "id": 22,
+      "title": "Tritt auf den Riegel von der Tur",
+      "composer": "di Lasso, Orlando",
+      "voicing": "SAATB",
+      "edition": "photocopy",
+      "period": "renaissance"
     },
     {
-        "id": 23,
-        "title": "XXXIX",
-        "composer": "Giamberti, Gioseppe",
-        "voicing": "TT",
-        "edition": "photocopy",
-        "period": "renaissance"
+      "id": 23,
+      "title": "XXXIX",
+      "composer": "Giamberti, Gioseppe",
+      "voicing": "TT",
+      "edition": "photocopy",
+      "period": "renaissance"
     },
     {
-        "id": 24,
-        "title": "Alix avoit aux dens la malerage",
-        "composer": "Crecquillon, Thomas",
-        "voicing": "SATB",
-        "edition": "photocopy",
-        "period": "renaissance"
+      "id": 24,
+      "title": "Alix avoit aux dens la malerage",
+      "composer": "Crecquillon, Thomas",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "renaissance"
     },
     {
-        "id": 25,
-        "title": "La nuit Froide et Sombre",
-        "composer": "Lassus",
-        "voicing": "ATTB",
-        "edition": "photocopy",
-        "period": "renaissance"
+      "id": 25,
+      "title": "La nuit Froide et Sombre",
+      "composer": "Lassus",
+      "voicing": "ATTB",
+      "edition": "photocopy",
+      "period": "renaissance"
     },
     {
-        "id": 26,
-        "title": "Un Jour Vis",
-        "composer": "unknown",
-        "voicing": "ATTB",
-        "edition": "photocopy",
-        "period": "renaissance"
+      "id": 26,
+      "title": "Un Jour Vis",
+      "composer": "unknown",
+      "voicing": "ATTB",
+      "edition": "photocopy",
+      "period": "renaissance"
     },
     {
-        "id": 27,
-        "title": "XXIX (Courante)",
-        "composer": "Simpson, Thomas",
-        "voicing": "SAATB",
-        "edition": "photocopy",
-        "period": "renaissance"
+      "id": 27,
+      "title": "XXIX (Courante)",
+      "composer": "Simpson, Thomas",
+      "voicing": "SAATB",
+      "edition": "photocopy",
+      "period": "renaissance"
     },
     {
-        "id": 28,
-        "title": "Adoramus te, Christe",
-        "composer": "Gasparini, Quirino",
-        "voicing": "SATB",
-        "edition": "photocopy",
-        "period": "baroque"
+      "id": 28,
+      "title": "Adoramus te, Christe",
+      "composer": "Gasparini, Quirino",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "baroque"
     },
     {
-        "id": 29,
-        "title": "Ung gay bergier",
-        "composer": "Crecquillon, Thomas",
-        "voicing": "SATB",
-        "edition": "photocopy",
-        "period": "renaissance"
+      "id": 29,
+      "title": "Ung gay bergier",
+      "composer": "Crecquillon, Thomas",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "renaissance"
     },
     {
-        "id": 30,
-        "title": "Doulce Memoire",
-        "composer": "Sandrin",
-        "voicing": "AATB",
-        "edition": "photocopy",
-        "period": "renaissance"
+      "id": 30,
+      "title": "Doulce Memoire",
+      "composer": "Sandrin",
+      "voicing": "AATB",
+      "edition": "photocopy",
+      "period": "renaissance"
+    },
+    {
+      "id": 31,
+      "title": "Suite for Four Recorders",
+      "composer": "Endres, Olive P.",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "contemporary"
+    },
+    {
+      "id": 32,
+      "title": "Quartettino",
+      "composer": "Genzmer, Harald",
+      "voicing": "SATB",
+      "edition": "Schott",
+      "period": "contemporary"
+    },
+    {
+      "id": 33,
+      "title": "Alpine Suite - Arrival at Zermatt",
+      "composer": "Britten, Benjamin",
+      "voicing": "SSA",
+      "edition": "photocopy",
+      "period": "contemporary"
+    },
+    {
+      "id": 34,
+      "title": "Jazzy Rondo",
+      "composer": "Peskin, Carolyn",
+      "voicing": "AB",
+      "edition": "photocopy",
+      "period": "contemporary"
+    },
+    {
+      "id": 35,
+      "title": "Happy Birthday - Variationen",
+      "composer": "Friederici, Matthias",
+      "voicing": "SAT",
+      "edition": "Moeck Verlag",
+      "period": "contemporary"
+    },
+    {
+      "id": 36,
+      "title": "Recorder Rally",
+      "composer": "Maute, Matthias",
+      "voicing": "SATB",
+      "edition": "ARS",
+      "period": "contemporary"
+    },
+    {
+      "id": 37,
+      "title": "Four Moods",
+      "composer": "Tasker, William",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "contemporary"
+    },
+    {
+      "id": 38,
+      "title": "Escondido",
+      "composer": "unknown",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "folk"
+    },
+    {
+      "id": 39,
+      "title": "Pavan",
+      "composer": "Tomkins, Thomas",
+      "voicing": "SAATB",
+      "edition": "photocopy",
+      "period": "1600"
+    },
+    {
+      "id": 40,
+      "title": "Fantasia",
+      "composer": "Mundy, William",
+      "voicing": "SAATB",
+      "edition": "London Pro Musica",
+      "period": "renaissance"
+    },
+    {
+      "id": 41,
+      "title": "Paduna and Galliard (XVIII)",
+      "composer": "Stephan, Johann",
+      "voicing": "SSATB",
+      "edition": "photocopy",
+      "period": "renaissance"
+    },
+    {
+      "id": 42,
+      "title": "Eine Studenten Music",
+      "composer": "Rosenmuller, Johann",
+      "voicing": "SSATBB",
+      "edition": "photocopy",
+      "period": "baroque"
+    },
+    {
+      "id": 43,
+      "title": "The King's Hunt",
+      "composer": "Bull, John",
+      "voicing": "SAT",
+      "edition": "photocopy",
+      "period": "renaissance"
+    },
+    {
+      "id": 44,
+      "title": "Gavotte",
+      "composer": "d'Andrieu, Jean Francois",
+      "voicing": "SAT",
+      "edition": "photocopy",
+      "period": "baroque"
+    },
+    {
+      "id": 45,
+      "title": "Pavan and Galliard a 5",
+      "composer": "Byrd, William",
+      "voicing": "SATTB",
+      "edition": "photocopy",
+      "period": "renaissance"
+    },
+    {
+      "id": 46,
+      "title": "XXIX",
+      "composer": "Simpson, Thomas",
+      "voicing": "SAATB",
+      "edition": "photocopy",
+      "period": "renaissance"
+    },
+    {
+      "id": 47,
+      "title": "Courtly Masquing Ayres",
+      "composer": "Adson, John",
+      "voicing": "SSAATB",
+      "edition": "Universal",
+      "period": "baroque"
+    },
+    {
+      "id": 48,
+      "title": "Sanz cuer - Amis, dolens - Dame, par vous",
+      "composer": "Machaut",
+      "voicing": "AAA",
+      "edition": "photocopy",
+      "period": "renaissance"
+    },
+    {
+      "id": 49,
+      "title": "Missa ad imitaionem moduli Doulce Memoire",
+      "composer": "di Lasso, Orlando",
+      "voicing": "SATB",
+      "edition": "Barenreiter-Verlag",
+      "period": "renaissance"
+    },
+    {
+      "id": 50,
+      "title": "Canzoneta",
+      "composer": "Lacerda, Osvaldo",
+      "voicing": "SATB",
+      "edition": "photocopy - Clea",
+      "period": "contemporary"
+    },
+    {
+      "id": 51,
+      "title": "Suite for an Oriental  Bazaaar",
+      "composer": "Sherman, Elna",
+      "voicing": "SAT",
+      "edition": "ARS",
+      "period": "contemporary"
+    },
+    {
+      "id": 52,
+      "title": "Ce moys de May",
+      "composer": "Dufay, Guillaume",
+      "voicing": "ATT",
+      "edition": "photocopy",
+      "period": "renaissance"
+    },
+    {
+      "id": 53,
+      "title": "In te, domine, speravi",
+      "composer": "Josquin",
+      "voicing": "ATTB",
+      "edition": "EML",
+      "period": "renaissance"
+    },
+    {
+      "id": 54,
+      "title": "Una Sanosa Porfia",
+      "composer": "Encina, Juan del",
+      "voicing": "SATB",
+      "edition": "JWC",
+      "period": "renaissance"
+    },
+    {
+      "id": 55,
+      "title": "Susanne ung jour",
+      "composer": "di Lasso, Orlando",
+      "voicing": "SAATB",
+      "edition": "photocopy",
+      "period": "renaissance"
+    },
+    {
+      "id": 56,
+      "title": "Frais et gaillard",
+      "composer": "Clemens non Papa",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "renaissance"
+    },
+    {
+      "id": 57,
+      "title": "A la fontaine",
+      "composer": "Willaert, Adrian",
+      "voicing": "SSATTB",
+      "edition": "London Pro Musica",
+      "period": "renaissance"
+    },
+    {
+      "id": 58,
+      "title": "Ancor che col partire",
+      "composer": "D'Avalos, Alfonso",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "renaissance"
+    },
+    {
+      "id": 59,
+      "title": "Tabour Pipe",
+      "composer": "unknown",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "contemporary"
+    },
+    {
+      "id": 60,
+      "title": "Soft Walk",
+      "composer": "unknown",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "contemporary"
+    },
+    {
+      "id": 61,
+      "title": "March in C",
+      "composer": "Fischer, John",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "late baroque"
+    },
+    {
+      "id": "62",
+      "title": "Mille Regretz",
+      "composer": "Josquin",
+      "voicing": "SATB",
+      "edition": "photocopy - Clea",
+      "period": "renaissance"
+    },
+    {
+      "id": "63",
+      "title": "The Hobgoblin Birthday Song",
+      "composer": "unknown",
+      "voicing": "SATB",
+      "edition": "Moeck",
+      "period": "contemporary"
+    },
+    {
+      "id": 64,
+      "title": "Canon",
+      "composer": "Bach, J.S.",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "baroque"
+    },
+    {
+      "id": 65,
+      "title": "Kanzonette",
+      "composer": "Buxtehude",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "baroque"
+    },
+    {
+      "id": 66,
+      "title": "Scarborough Fair",
+      "composer": "Teschner (arr)",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "folk"
+    },
+    {
+      "id": 67,
+      "title": "Dynamo",
+      "composer": "Rose, Pete",
+      "voicing": "SATB",
+      "edition": "ARS",
+      "period": "contemporary"
+    },
+    {
+      "id": 68,
+      "title": "Bushes and Briars",
+      "composer": "unknown",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "folk"
+    },
+    {
+      "id": "69",
+      "title": "Four Sea Songs",
+      "composer": "Pennick, Bruce (arr)",
+      "voicing": "SnSATB",
+      "edition": "Schott",
+      "period": "folk"
+    },
+    {
+      "id": "70",
+      "title": "Canzona",
+      "composer": "Frescobaldi, Girolamo",
+      "voicing": "SATB",
+      "edition": "Faber Music",
+      "period": "baroque"
+    },
+    {
+      "id": "71",
+      "title": "Mowing the Barley",
+      "composer": "unknown",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "folk"
+    },
+    {
+      "id": 72,
+      "title": "The Clammy Trip",
+      "composer": "unknown",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "unknown"
+    },
+    {
+      "id": 73,
+      "title": "Hullabaloo belay",
+      "composer": "unknown",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "unknown"
+    },
+    {
+      "id": 74,
+      "title": "Fonerier",
+      "composer": "Hagvali, Bjorn",
+      "voicing": "SATB",
+      "edition": "Reuter and Reuter Forlags",
+      "period": "contemporary"
+    },
+    {
+      "id": 75,
+      "title": "Capriccio",
+      "composer": "Staeps, Hans Ulrich",
+      "voicing": "AT",
+      "edition": "Unicorn Music",
+      "period": "contemporary"
     }
-]
+  ]
