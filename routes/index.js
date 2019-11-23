@@ -17,19 +17,19 @@ const update = (body) => {
 };
 
 const composers = () => {
-  return [...new Set(db.data.map(item => item.composer))];
+  return [...new Set(db.data.map(item => item.composer))].sort();
 }
 const titles = () => {
-  return [...new Set(db.data.map(item => item.title))];
+  return [...new Set(db.data.map(item => item.title))].sort();
 }
 const voicings = () => {
-  return [...new Set(db.data.map(item => item.voicing))];
+  return [...new Set(db.data.map(item => item.voicing))].sort();
 }
 const editions = () => {
-  return [...new Set(db.data.map(item => item.edition))];
+  return [...new Set(db.data.map(item => item.edition))].sort();
 }
 const periods = () => {
-  return [...new Set(db.data.map(item => item.period))];
+  return [...new Set(db.data.map(item => item.period))].sort();
 }
 const nullform = {
   id: '',

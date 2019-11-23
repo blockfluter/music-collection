@@ -10,7 +10,7 @@
     {
       "id": "2",
       "title": "Forma decens mores - Alles in Ehren",
-      "composer": "Willaert",
+      "composer": "Willaert, Adrian",
       "voicing": "SATTB",
       "edition": "Motto Motets from the Copenhagen MS",
       "period": "renaissance"
@@ -24,7 +24,7 @@
       "period": "renaissance"
     },
     {
-      "id": 4,
+      "id": "4",
       "title": "Passa madonna",
       "composer": "John Coperario",
       "voicing": "SAATB",
@@ -64,7 +64,7 @@
       "period": "contemporary"
     },
     {
-      "id": 9,
+      "id": "9",
       "title": "Donna s'io miro voi",
       "composer": "unknown",
       "voicing": "AATTB",
@@ -448,7 +448,7 @@
       "period": "renaissance"
     },
     {
-      "id": 57,
+      "id": "57",
       "title": "A la fontaine",
       "composer": "Willaert, Adrian",
       "voicing": "SSATTB",
@@ -598,5 +598,493 @@
       "voicing": "AT",
       "edition": "Unicorn Music",
       "period": "contemporary"
+    },
+    {
+      "id": 76,
+      "title": "Prelude from Douze pieces d'Orgue",
+      "composer": "Lemmens, Jacques Nicolas",
+      "voicing": "SATB",
+      "edition": "arr. Christian Mondrup",
+      "period": "1850"
+    },
+    {
+      "id": 77,
+      "title": "Barechu",
+      "composer": "Rossi, Salamone",
+      "voicing": "ATB",
+      "edition": "photocopy",
+      "period": "renaissance"
+    },
+    {
+      "id": 78,
+      "title": "Shir Hama'alot",
+      "composer": "Rossi, Salamone",
+      "voicing": "ATB",
+      "edition": "photocopy",
+      "period": "renaissance"
+    },
+    {
+      "id": 79,
+      "title": "Dov'e, donna, il mio sole",
+      "composer": "de Wert, Giaches",
+      "voicing": "SATB",
+      "edition": "Grupo Vocal Solo Voces",
+      "period": "renaissance"
+    },
+    {
+      "id": 80,
+      "title": "Elohim Hashivenu",
+      "composer": "Rossi, Salamone",
+      "voicing": "SATB",
+      "edition": "CPDL",
+      "period": "renaissance"
+    },
+    {
+      "id": "81",
+      "title": "Cara la mia vita",
+      "composer": "de Wert, Giaches",
+      "voicing": "SATTB",
+      "edition": "photocopy",
+      "period": "renaissance"
+    },
+    {
+      "id": 82,
+      "title": "Adoramus te, Christe",
+      "composer": "Monteverdi, Claudio",
+      "voicing": "SSATTB",
+      "edition": "CPDL",
+      "period": "renaissance"
+    },
+    {
+      "id": 83,
+      "title": "Vive Le Roy",
+      "composer": "Josquin",
+      "voicing": "ATTB",
+      "edition": "photocopy",
+      "period": "renaissance"
+    },
+    {
+      "id": 84,
+      "title": "Il bell humore",
+      "composer": "Gastoldi, Giovanni Giacomo",
+      "voicing": "SSATB",
+      "edition": "Grupo Vocal Solo Voces",
+      "period": "renaissance"
+    },
+    {
+      "id": 85,
+      "title": "Sonata for seven recorders",
+      "composer": "Schmelzer",
+      "voicing": "SSAATTB",
+      "edition": "photocopy Gruskin",
+      "period": "late baroque"
+    },
+    {
+      "id": 86,
+      "title": "Two Sonatas in Five Parts",
+      "composer": "Legrenzi, Giovanni",
+      "voicing": "SSATB",
+      "edition": "Dolmetsch",
+      "period": "baroque"
+    },
+    {
+      "id": 87,
+      "title": "Herr Jesu Christ, ich weiss gar wohl",
+      "composer": "Buxtehude",
+      "voicing": "SATB",
+      "edition": "Christian Mondrup",
+      "period": "baroque"
+    },
+    {
+      "id": 88,
+      "title": "Alle Menschen mussen sterben",
+      "composer": "Bach, J.S.",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "baroque"
+    },
+    {
+      "id": 89,
+      "title": "BVW 606 Vom Himmel hoch, do komm ich her",
+      "composer": "Bach, J.S.",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "baroque"
+    },
+    {
+      "id": 90,
+      "title": "Im Sommer sein die Brunnlein gsund",
+      "composer": "Scandello, Antonio",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "renaissance"
+    },
+    {
+      "id": 91,
+      "title": "Fine Knacks for Ladies",
+      "composer": "Dowland, John",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "renaissance"
+    },
+    {
+      "id": 92,
+      "title": "Variations on Drmes",
+      "composer": "Bishop, Martha",
+      "voicing": "SATB",
+      "edition": "Bishop",
+      "period": "contemporary"
+    },
+    {
+      "id": 93,
+      "title": "Blue Monday",
+      "composer": "Heger, Uwe",
+      "voicing": "SAT",
+      "edition": "Noetzel",
+      "period": "contemporary"
+    },
+    {
+      "id": 94,
+      "title": "Madona",
+      "composer": "unknown",
+      "voicing": "SAATB",
+      "edition": "photocopy",
+      "period": "baroque"
+    },
+    {
+      "id": "95",
+      "title": "Mein Yiddishe Meidele + 4",
+      "composer": "Secunda, Sholom",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "klezmer"
+    },
+    {
+      "id": 96,
+      "title": "Canzona Franzesa Chromatica",
+      "composer": "Trabaci",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "renaissance"
+    },
+    {
+      "id": 97,
+      "title": "Canzon seconda a quattro",
+      "composer": "Ggabrieli, Giovanni",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "baroque"
+    },
+    {
+      "id": 98,
+      "title": "La Merula",
+      "composer": "Merula, Tarquinio",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "baroque"
+    },
+    {
+      "id": 99,
+      "title": "Browning my dear",
+      "composer": "Stonings, Henry",
+      "voicing": "SATTB",
+      "edition": "London Pro Musica",
+      "period": "baroque"
+    },
+    {
+      "id": 100,
+      "title": "2 Canzoni da sonar",
+      "composer": "Qualiati, Paolo",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "baroque"
+    },
+    {
+      "id": "101",
+      "title": "Almand (XXXV)",
+      "composer": "Johnson, Robert",
+      "voicing": "SATTB",
+      "edition": "photocopy",
+      "period": "baroque"
+    },
+    {
+      "id": 102,
+      "title": "Se per haveri oime",
+      "composer": "Monteverdi, Claudio",
+      "voicing": "SATTB",
+      "edition": "photocopy",
+      "period": "baroque"
+    },
+    {
+      "id": 103,
+      "title": "Psalm 42 (Comfort ye my people)",
+      "composer": "Bourgeois, Louis",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "renaissance"
+    },
+    {
+      "id": "104",
+      "title": "Mein junges Leben hat ein End'",
+      "composer": "Sweelinck",
+      "voicing": "SATB",
+      "edition": "arr Slowins/Gauger",
+      "period": "baroque"
+    },
+    {
+      "id": "105",
+      "title": "Capriccio fiorito",
+      "composer": "Bresgen, Cesar",
+      "voicing": "SATB",
+      "edition": "Moeck Verlag",
+      "period": "contemporary"
+    },
+    {
+      "id": 106,
+      "title": "Ballet",
+      "composer": "Praetorius, Michael",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "baroque"
+    },
+    {
+      "id": 107,
+      "title": "Pavan Lachrimae Verae",
+      "composer": "Dowland, John",
+      "voicing": "SATTB",
+      "edition": "photocopy",
+      "period": "baroque"
+    },
+    {
+      "id": 108,
+      "title": "Come Away Death",
+      "composer": "Williams, Ralph Vaughan",
+      "voicing": "SAATB",
+      "edition": "Polyphonic Publications",
+      "period": "contemporary"
+    },
+    {
+      "id": 109,
+      "title": "Phillis I Fain Would Die Now",
+      "composer": "Morley, Thomas",
+      "voicing": "SSAATTB",
+      "edition": "CPDL",
+      "period": "baroque"
+    },
+    {
+      "id": 110,
+      "title": "Pavan & Galliard",
+      "composer": "Phillips, Peter",
+      "voicing": "SAATB",
+      "edition": "photocopy",
+      "period": "baroque"
+    },
+    {
+      "id": 111,
+      "title": "Galliard The Sighes, The fruit of love",
+      "composer": "Holborne, Anthony",
+      "voicing": "SAATB",
+      "edition": "photocopy",
+      "period": "baroque"
+    },
+    {
+      "id": 112,
+      "title": "Gloria d'Amore",
+      "composer": "Gastoldi, Giovanni Giacomo",
+      "voicing": "SAATB",
+      "edition": "photocopy",
+      "period": "baroque"
+    },
+    {
+      "id": 113,
+      "title": "Il contento",
+      "composer": "Gastoldi, Giovanni Giacomo",
+      "voicing": "SAATB",
+      "edition": "photocopy",
+      "period": "baroque"
+    },
+    {
+      "id": 114,
+      "title": "Il martellato",
+      "composer": "Gastoldi, Giovanni Giacomo",
+      "voicing": "SAATB",
+      "edition": "photocopy",
+      "period": "baroque"
+    },
+    {
+      "id": 115,
+      "title": "Da pacem I",
+      "composer": "Anon (Sicher Tablature)",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "renaissance"
+    },
+    {
+      "id": 116,
+      "title": "Agnus Dei",
+      "composer": "Hassler, Hans Leo",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "baroque"
+    },
+    {
+      "id": 117,
+      "title": "La Sol Fa Re Mi",
+      "composer": "Tiburtino",
+      "voicing": "ATB",
+      "edition": "photocopy",
+      "period": "renaissance"
+    },
+    {
+      "id": 118,
+      "title": "Suite fur Blockflotenquartett",
+      "composer": "Tasker, William",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "contemporary"
+    },
+    {
+      "id": 119,
+      "title": "A String of Pearls",
+      "composer": "Gray, Jerry - arr Paul Leenhouts",
+      "voicing": "SATB",
+      "edition": "Paul Leenhouts",
+      "period": "contemporary"
+    },
+    {
+      "id": 120,
+      "title": "The Silver Swan",
+      "composer": "arr Staeps",
+      "voicing": "SAT",
+      "edition": "photocopy",
+      "period": "contemporary"
+    },
+    {
+      "id": 121,
+      "title": "Rondelli",
+      "composer": "Staeps, Hans Ulrich",
+      "voicing": "SSAAT",
+      "edition": "Moeck Verlag",
+      "period": "contemporary"
+    },
+    {
+      "id": 122,
+      "title": "Kanon, Walzer, Marsch",
+      "composer": "Staeps, Hans Ulrich",
+      "voicing": "SAT",
+      "edition": "photocopy",
+      "period": "contemporary"
+    },
+    {
+      "id": 123,
+      "title": "Tanzbuchlein (10 short pieces)",
+      "composer": "Poser, Hans",
+      "voicing": "SAT",
+      "edition": "photocopy",
+      "period": "contemporary"
+    },
+    {
+      "id": 124,
+      "title": "XII",
+      "composer": "Fischer, Johann Kaspar",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "late baroque"
+    },
+    {
+      "id": 125,
+      "title": "LeClercq's Air",
+      "composer": "Wood, Robert E.",
+      "voicing": "SATB",
+      "edition": "ARS",
+      "period": "contemporary"
+    },
+    {
+      "id": 126,
+      "title": "Scherzo",
+      "composer": "Britten, Benjamin",
+      "voicing": "SATB",
+      "edition": "Hawkes & Son",
+      "period": "contemporary"
+    },
+    {
+      "id": 127,
+      "title": "The Streets of Laredo",
+      "composer": "unknown",
+      "voicing": "SAT",
+      "edition": "The Provincetown Bookshop",
+      "period": "unknown"
+    },
+    {
+      "id": 128,
+      "title": "Frankie and Johnny",
+      "composer": "unknown",
+      "voicing": "SAT",
+      "edition": "The Provincetown Bookshop",
+      "period": "unknown"
+    },
+    {
+      "id": 129,
+      "title": "Wayfaring Stranger",
+      "composer": "unknown",
+      "voicing": "SAT",
+      "edition": "The Provincetown Bookshop",
+      "period": "unknown"
+    },
+    {
+      "id": 130,
+      "title": "Kanzone",
+      "composer": "Staden, Joh.",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "baroque"
+    },
+    {
+      "id": 131,
+      "title": "Paduana",
+      "composer": "Borchgreving",
+      "voicing": "SAATB",
+      "edition": "photocopy",
+      "period": "baroque"
+    },
+    {
+      "id": 132,
+      "title": "modulating canon",
+      "composer": "Kimberger, Johann Phillip",
+      "voicing": "SATB",
+      "edition": "arr. J. Chaudoir",
+      "period": "late baroque"
+    },
+    {
+      "id": 133,
+      "title": "Chaconne - The Gordion Knot Unty'd",
+      "composer": "Purcell, Henry",
+      "voicing": "SATB",
+      "edition": "Eric Haas",
+      "period": "baroque"
+    },
+    {
+      "id": 134,
+      "title": "The Lost Years - Die verlorenen Jahre",
+      "composer": "Heger, Uwe",
+      "voicing": "SATB",
+      "edition": "photocopy",
+      "period": "klezmer"
+    },
+    {
+      "id": 135,
+      "title": "Il bell' humore",
+      "composer": "Gastoldi, Giovanni Giacomo",
+      "voicing": "SATTB",
+      "edition": "photocopy",
+      "period": "baroque"
+    },
+    {
+      "id": 136,
+      "title": "All'hora i pastor tutti",
+      "composer": "Monteverdi, Claudio",
+      "voicing": "SAATB",
+      "edition": "CPDL",
+      "period": "baroque"
     }
   ]

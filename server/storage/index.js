@@ -131,9 +131,9 @@ var Storage = function (opts) {
 						)
 				}).sort((a, b) => {
 					if (order === 'dec') {
-						return typeof b[key] === 'string' ? b[key].localeCompare(a[key]) : b[key] - a[key];
+						return typeof a[key] === 'string' && typeof b[key] === 'string' ? b[key].localeCompare(a[key]) : b[key] - a[key];
 					} else {
-						return typeof a[key] === 'string' ? a[key].localeCompare(b[key]) : a[key] - b[key];
+						return typeof a[key] === 'string' && typeof b[key] === 'string' ? a[key].localeCompare(b[key]) : a[key] - b[key];
 					}
 				})
 			];

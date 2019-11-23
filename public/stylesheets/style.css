@@ -1,11 +1,21 @@
 body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
   overflow: hidden;
+  background: rgb(188, 207, 231);
 }
 
 form {
   display: flex;
   flex-direction: column;
+}
+
+input {
+  height: 15px;
+  padding: 5px 0 5px 0
+}
+
+select {
+  height: 30px;
 }
 
 div.fixed {
@@ -30,10 +40,6 @@ a {
 
 input, select {
   font-size: 120%;
-}
-
-form section {
-  margin-right: 1em;
 }
 
 form section label {
@@ -72,7 +78,7 @@ button.normal {
 
 .fixed_header {
   margin-top: 130px;
-  width: 100vw;
+  width: 100%;
   table-layout: fixed;
   border-collapse: collapse;
 }
@@ -92,7 +98,7 @@ button.normal {
 .fixed_header thead {
   background: black;
   color: #fff;
-  width:100%;
+  width: 100%;
 }
 
 .fixed_header th, .fixed_header td {
@@ -100,39 +106,50 @@ button.normal {
   text-align: left;
 }
 
-[data-key='id']{
-  width:3em;
-}
-[data-key='title']{
-  width:28em;
-}
-[data-key='composer']{
-  width:20em;
-}
-[data-key='period']{
-  width:20em;
-}
-[data-key='voicing']{
-  width:10em;
-}
-[data-key='edition']{
-  width:30%;
-}
-th {
-  background: rgb(190, 190, 190);
-  padding: .5em;
+[data-key='id'] {
+  width: 3em;
 }
 
-tr>td {
-  padding: .3em;
+[data-key='title'] {
+  width: 28em;
+}
+
+[data-key='composer'] {
+  width: 20em;
+}
+
+[data-key='period'] {
+  width: 20em;
+}
+
+[data-key='voicing'] {
+  width: 10em;
+}
+
+[data-key='edition'] {
+  width: 30%;
+}
+
+th {
+  background: rgb(71, 81, 211);
+  font-size: 110%;
+}
+
+a {
+  color: #fff;
 }
 
 tr td {
   background-color: #fff;
   transition-duration: 1.5s;
+  transition-property: background-color;
+}
+
+tr:hover td {
+  cursor: pointer;
+  font-weight: bold;
 }
 
 tr.status1 td {
   background-color: rgb(214, 202, 30);
-  transition-duration: 1.5s;
 }
