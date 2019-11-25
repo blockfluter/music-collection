@@ -76,6 +76,11 @@ button.normal {
   background-color: rgb(124, 170, 255)
 }
 
+button.tiny {
+  background-color: rgb(63, 64, 66);
+  width: 2em;
+}
+
 .fixed_header {
   margin-top: 130px;
   width: 100%;

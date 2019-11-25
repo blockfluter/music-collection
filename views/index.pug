@@ -50,6 +50,7 @@ block content
             each edition in editions
               option=edition
           input(id='edition' name='edition' type='text' value=values.edition)
+        button.tiny(type="button" onclick="clearInputs()")='X'
   table.fixed_header
     thead
       tr
@@ -73,7 +74,7 @@ block content
           a(href=`/sort?key=edition&order=${order}`)='Edition'
     tbody    
       each item in data
-        tr(onclick='loadRow(this)', class=`status${item.status?item.status:''}`)
+        tr(ondblclick='loadRow(this)', class=`status${item.status?item.status:''}`)
           td(data-key='id')=item.id
           td(data-key='title')=item.title
           td(data-key='composer')=item.composer
