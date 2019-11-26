@@ -2,7 +2,43 @@ var express = require('express');
 var router = express.Router();
 var Storage = require('../server/storage');
 
-var db = new Storage();
+var db = new Storage({
+  validate: (obj) => {
+    return '' !== obj.title
+      && '' !== obj.voicing
+      && '' !== obj.composer
+      && '' !== obj.edition
+      && '' !== obj.period
+  },
+  equal: (a, b) => {
+    return a.title === b.title
+      && a.voicing === b.voicing
+      && a.composer === b.composer
+      && a.edition === b.edition
+      && a.period === b.period
+  },
+  persist: (v) => {
+    return {
+      id: v.id,
+      title: v.title,
+      composer: v.composer,
+      voicing: v.voicing,
+      edition: v.edition,
+      period: v.period
+    };
+  },
+  filters: (_filter, item) => {
+    const filterTest = (v1, v2) => {
+      if (!v1)
+        return true;
+      return new RegExp(`${v1}`, 'i').exec(v2);
+    }
+    return filterTest(_filter.composer, item.composer)
+      && filterTest(_filter.voicing, item.voicing)
+      && filterTest(_filter.title, item.title);
+  }
+
+});
 
 const pageTitle = 'Music Catalog';
 
@@ -37,7 +73,7 @@ const nullform = {
   composer: '',
   period: '',
   voicing: '',
-  edition:''
+  edition: ''
 }
 const pageData = (formvalues) => {
   return {

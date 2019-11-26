@@ -10,30 +10,18 @@ var Storage = function (opts) {
 
 	let _filter = null;
 
-	const options = { ...defaults, opts };
+	const options = { ...defaults, ...opts };
 
 	const validate = (obj) => {
-		return '' !== obj.title
-			&& '' !== obj.voicing
-			&& '' !== obj.composer
-			&& '' !== obj.edition
-			&& '' !== obj.period;
+		return options.validate(obj);
 	}
-
 
 	const add = (obj) => {
 		const tmp = _data.map(item => {
 			return { ...item, status: 0 }
 		});
 		const findIndex = (obj) => {
-			return tmp.findIndex(item => {
-				return item.title === obj.title
-					&& item.voicing === obj.voicing
-					&& item.composer === obj.composer
-					&& item.edition === obj.edition
-					&& item.period === obj.period
-
-			});
+			return tmp.findIndex(item => options.equal(item, obj));
 		}
 		if (validate(obj)) {
 			const index = findIndex(obj);
@@ -88,17 +76,8 @@ var Storage = function (opts) {
 	}
 
 	const save = () => {
-		const mapped = _data.map(v => {
-			return {
-				id: v.id,
-				title: v.title,
-				composer: v.composer,
-				voicing: v.voicing,
-				edition: v.edition,
-				period: v.period
-			};
-
-		})
+		const mapped = _data.map(v => options.persist(v));
+	
 		fs.writeFile(options.file,
 			JSON.stringify(mapped, undefined, 2),
 			(err) => {
@@ -110,11 +89,6 @@ var Storage = function (opts) {
 		_data = JSON.parse(fs.readFileSync(options.file).toString());
 	}
 
-	const filterTest = (v1, v2) => {
-		if (!v1)
-			return true;
-		return new RegExp(`${v1}`, 'i').exec(v2);
-	}
 	Object.defineProperty(this, "data", {
 		get: () => {
 			var { key, order } = _sort;
@@ -123,12 +97,7 @@ var Storage = function (opts) {
 			}
 			return [
 				..._data.filter(item => {
-					return !_filter ||
-						(
-							filterTest(_filter.composer, item.composer)
-							&& filterTest(_filter.voicing, item.voicing)
-							&& filterTest(_filter.title, item.title)
-						)
+					return !_filter || options.filters(_filter, item)
 				}).sort((a, b) => {
 					if (order === 'dec') {
 						return typeof a[key] === 'string' && typeof b[key] === 'string' ? b[key].localeCompare(a[key]) : b[key] - a[key];
