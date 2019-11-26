@@ -2,7 +2,7 @@
   {
     "id": "1",
     "title": "O Lord, make thy servant, Elizabeth",
-    "composer": "William Byrd",
+    "composer": "Byrd, William",
     "voicing": "SAATTB",
     "edition": "Davenport",
     "period": "baroque"
@@ -1694,5 +1694,365 @@
     "voicing": "AABB",
     "edition": "photocopy",
     "period": "medieval"
+  },
+  {
+    "id": 213,
+    "title": "Fuga in g",
+    "composer": "Kerckhoven, A. van den",
+    "voicing": "SATB",
+    "edition": "Eric Haas",
+    "period": "baroque"
+  },
+  {
+    "id": 214,
+    "title": "Sonata \"La Marina\"",
+    "composer": "Gussago, Cesario",
+    "voicing": "SATTTB",
+    "edition": "photocopy",
+    "period": "baroque"
+  },
+  {
+    "id": 215,
+    "title": "Kein Grosser Freud",
+    "composer": "Hassler, Hans Leo",
+    "voicing": "SATB",
+    "edition": "photocopy",
+    "period": "baroque"
+  },
+  {
+    "id": 216,
+    "title": "Conditor alme siderum",
+    "composer": "Dufay, Guillaume",
+    "voicing": "TTT",
+    "edition": "photocopy",
+    "period": "renaissance"
+  },
+  {
+    "id": 217,
+    "title": "Ave Maria",
+    "composer": "de Victoria, Tomas Luis",
+    "voicing": "SATB",
+    "edition": "photocopy",
+    "period": "renaissance"
+  },
+  {
+    "id": 218,
+    "title": "Ave Verum",
+    "composer": "Byrd, William",
+    "voicing": "SATB",
+    "edition": "J&W Chester",
+    "period": "baroque"
+  },
+  {
+    "id": 219,
+    "title": "O Virgo splendens",
+    "composer": "Anonymous",
+    "voicing": "TTT",
+    "edition": "photocopy",
+    "period": "renaissance"
+  },
+  {
+    "id": 220,
+    "title": "Fantasia chromatica",
+    "composer": "Cato, Diomedes",
+    "voicing": "ATTB",
+    "edition": "icking",
+    "period": "baroque"
+  },
+  {
+    "id": 221,
+    "title": "O Felici Occhi Miei",
+    "composer": "Arcadelt, Jacques",
+    "voicing": "SATB",
+    "edition": "photocopy",
+    "period": "renaissance"
+  },
+  {
+    "id": 222,
+    "title": "Magnificat Fuga",
+    "composer": "Pachelbel, Johann",
+    "voicing": "SATB",
+    "edition": "Musikverlag zum Pelikan",
+    "period": "baroque"
+  },
+  {
+    "id": 223,
+    "title": "Suite 11",
+    "composer": "Schein, Johann",
+    "voicing": "SATTB",
+    "edition": "photocopy",
+    "period": "baroque"
+  },
+  {
+    "id": 224,
+    "title": "Par Maintes Foys",
+    "composer": "Vaillant, Johannes",
+    "voicing": "ATT",
+    "edition": "London Pro Musica",
+    "period": "renaissance"
+  },
+  {
+    "id": 225,
+    "title": "Trio G-Dur",
+    "composer": "Haydn, Joseph",
+    "voicing": "ATB",
+    "edition": "Carl Haslinger",
+    "period": "classical"
+  },
+  {
+    "id": 226,
+    "title": "Five Imitations for Three Recorders",
+    "composer": "Vecchi, Orazio",
+    "voicing": "SAT",
+    "edition": "photocopy",
+    "period": "renaissance"
+  },
+  {
+    "id": 227,
+    "title": "6 Instrumental Pieces from Florence",
+    "composer": "Anthology",
+    "voicing": "ATB",
+    "edition": "London Pro Musica EML 281",
+    "period": "renaissance"
+  },
+  {
+    "id": 228,
+    "title": "Je me complains piteusement",
+    "composer": "Dufay, Guillaume",
+    "voicing": "ATT",
+    "edition": "photocopy",
+    "period": "renaissance"
+  },
+  {
+    "id": 229,
+    "title": "Sonata II (Op.2, No. 2)",
+    "composer": "unknown",
+    "voicing": "ATB",
+    "edition": "photocopy",
+    "period": "baroque"
+  },
+  {
+    "id": 230,
+    "title": "Ballatae collection",
+    "composer": "unknown",
+    "voicing": "ATT",
+    "edition": "photocopy",
+    "period": "renaissance"
+  },
+  {
+    "id": "231",
+    "title": "Non avra ma pieta",
+    "composer": "Landini, Francesco",
+    "voicing": "ATT",
+    "edition": "photocopy",
+    "period": "renaissance"
+  },
+  {
+    "id": 232,
+    "title": "Phyton le Mervilleus Serpent",
+    "composer": "Machaut",
+    "voicing": "ATT",
+    "edition": "photocopy",
+    "period": "renaissance"
+  },
+  {
+    "id": 233,
+    "title": "Giunta vaga bilta",
+    "composer": "Landini, Francesco",
+    "voicing": "ATB",
+    "edition": "O.L. 203",
+    "period": "renaissance"
+  },
+  {
+    "id": 234,
+    "title": "2 French Songs of the fifteenth century",
+    "composer": "Anthology",
+    "voicing": "ATB",
+    "edition": "London Pro Musica EML 113",
+    "period": "renaissance"
+  },
+  {
+    "id": 235,
+    "title": "renaissance collection",
+    "composer": "Anthology",
+    "voicing": "AAT",
+    "edition": "Marks Music - transcribed Erich Katz",
+    "period": "renaissance"
+  },
+  {
+    "id": 236,
+    "title": "Fui no Itororo - Brazilian Folksongs",
+    "composer": "arr. David Goldstein",
+    "voicing": "SAT",
+    "edition": "David Goldstein",
+    "period": "folk"
+  },
+  {
+    "id": 237,
+    "title": "Pastorals",
+    "composer": "Barab, Seymour",
+    "voicing": "SAT",
+    "edition": "Galaxy Music ",
+    "period": "contemporary"
+  },
+  {
+    "id": 238,
+    "title": "Music for Recorders - Dance",
+    "composer": "Butt, James",
+    "voicing": "SAT",
+    "edition": "Hawkes & Son",
+    "period": "contemporary"
+  },
+  {
+    "id": 239,
+    "title": "Six Short Pieces for Three Recorders",
+    "composer": "Nelhybel, Vaclav",
+    "voicing": "ATT",
+    "edition": "ARS",
+    "period": "contemporary"
+  },
+  {
+    "id": 240,
+    "title": "Tout a par moy (rondeau)",
+    "composer": "Frye, Walter",
+    "voicing": "ATT",
+    "edition": "photocopy",
+    "period": "renaissance"
+  },
+  {
+    "id": 241,
+    "title": "Gais et Jolie",
+    "composer": "Anonymous",
+    "voicing": "ATB",
+    "edition": "photocopy",
+    "period": "renaissance"
+  },
+  {
+    "id": "242",
+    "title": "Quel fronte signorille, Vergene bella",
+    "composer": "Dufay, Guillaume",
+    "voicing": "ATB",
+    "edition": "EML 191",
+    "period": "renaissance"
+  },
+  {
+    "id": 243,
+    "title": "Little Dance Suite for Recorder Trio",
+    "composer": "Stoker, Richard",
+    "voicing": "SAT",
+    "edition": "Chappell&Co.",
+    "period": "contemporary"
+  },
+  {
+    "id": 244,
+    "title": "English madrigal - Cruel, you pull away too soon your lips",
+    "composer": "Anonymous",
+    "voicing": "SAT",
+    "edition": "photocopy",
+    "period": "baroque"
+  },
+  {
+    "id": 245,
+    "title": "Kyrie - Mass of Tournai",
+    "composer": "Anonymous",
+    "voicing": "ATT",
+    "edition": "photocopy",
+    "period": "14th century"
+  },
+  {
+    "id": 246,
+    "title": "Paduana + Galliarda",
+    "composer": "Engelmann, Georg",
+    "voicing": "SATB",
+    "edition": "photocopy",
+    "period": "baroque"
+  },
+  {
+    "id": 247,
+    "title": "Beata progenies, Beata viscera Marisa virginis",
+    "composer": "Power, Lionel",
+    "voicing": "ATT",
+    "edition": "photocopy",
+    "period": "13th century"
+  },
+  {
+    "id": 248,
+    "title": "Salvatoris Hodie",
+    "composer": "Perotin",
+    "voicing": "ATT",
+    "edition": "photocopy",
+    "period": "12th century"
+  },
+  {
+    "id": 249,
+    "title": "Entymology",
+    "composer": "Alan Davis",
+    "voicing": "SAT",
+    "edition": "photocopy",
+    "period": "contemporary"
+  },
+  {
+    "id": 250,
+    "title": "Ut re mi fa sol la",
+    "composer": "Tiburtino, Guiiano",
+    "voicing": "ATB",
+    "edition": "London Pro Musica",
+    "period": "renaissance"
+  },
+  {
+    "id": 251,
+    "title": "Capriccio \"O Felici Occhi Miei\"",
+    "composer": "Ruffo, Vincenzo",
+    "voicing": "ATB",
+    "edition": "London Pro Musica TM21",
+    "period": "renaissance"
+  },
+  {
+    "id": 252,
+    "title": "O rosa bella",
+    "composer": "Dunstable,John",
+    "voicing": "ATT",
+    "edition": "photocopy",
+    "period": "renaissance"
+  },
+  {
+    "id": 253,
+    "title": "Motet: Quam pulchra es",
+    "composer": "Dunstable,John",
+    "voicing": "ATB",
+    "edition": "photocopy",
+    "period": "renaissance"
+  },
+  {
+    "id": 254,
+    "title": "Mes esperis",
+    "composer": "Machaut",
+    "voicing": "AAT",
+    "edition": "Carl Van Roy arr. LaNoue Davenport",
+    "period": "renaissance"
+  },
+  {
+    "id": 255,
+    "title": "Je ne puis vivre",
+    "composer": "Busnois, Antoine",
+    "voicing": "ATB",
+    "edition": "EML 174",
+    "period": "renaissance"
+  },
+  {
+    "id": 256,
+    "title": "Tres Doulx Regart, others",
+    "composer": "Anthology",
+    "voicing": "SAT",
+    "edition": "photocopy",
+    "period": "renaissance"
+  },
+  {
+    "id": 257,
+    "title": "Fantasia",
+    "composer": "Lupo, Thomas",
+    "voicing": "SAT",
+    "edition": "arr. E.K.",
+    "period": "baroque"
   }
 ]
