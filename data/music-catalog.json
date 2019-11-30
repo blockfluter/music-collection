@@ -16,7 +16,7 @@
     "period": "renaissance"
   },
   {
-    "id": 3,
+    "id": "3",
     "title": "Commoda res et pulchra",
     "composer": "Presten",
     "voicing": "SATBB",
@@ -32,7 +32,7 @@
     "period": "renaissance"
   },
   {
-    "id": 5,
+    "id": "5",
     "title": "Dolce mia vita",
     "composer": "John Coperario",
     "voicing": "SAATB",
@@ -40,7 +40,7 @@
     "period": "renaissance"
   },
   {
-    "id": 6,
+    "id": "6",
     "title": "Untitled",
     "composer": "Guami",
     "voicing": "SATB",
@@ -48,7 +48,7 @@
     "period": "renaissance"
   },
   {
-    "id": 7,
+    "id": "7",
     "title": "The Silver Swan",
     "composer": "Orlando Gibbons",
     "voicing": "SAATB",
@@ -56,7 +56,7 @@
     "period": "renaissance"
   },
   {
-    "id": 8,
+    "id": "8",
     "title": "Fallen Leaves Fugal Fantasy",
     "composer": "Dominic Bohbot",
     "voicing": "SATB",
@@ -72,7 +72,7 @@
     "period": "unknown"
   },
   {
-    "id": 10,
+    "id": "10",
     "title": "Quartett-Ubung fur Blockfloten",
     "composer": "Linde",
     "voicing": "SATB",
@@ -80,7 +80,7 @@
     "period": "contemporary"
   },
   {
-    "id": 11,
+    "id": "11",
     "title": "Blues Canzonetta",
     "composer": "Steve Marshall",
     "voicing": "SATTB",
@@ -88,7 +88,7 @@
     "period": "contemporary"
   },
   {
-    "id": 12,
+    "id": "12",
     "title": "Articulation Exercise III",
     "composer": "Linde",
     "voicing": "SATB",
@@ -96,7 +96,7 @@
     "period": "contemporary"
   },
   {
-    "id": 13,
+    "id": "13",
     "title": "Renaissance Go Marchin' In",
     "composer": "arr: John Gauger",
     "voicing": "SATB",
@@ -104,7 +104,7 @@
     "period": "contemporary"
   },
   {
-    "id": 14,
+    "id": "14",
     "title": "Leaves in the River",
     "composer": "Erik Pearson",
     "voicing": "SATB",
@@ -112,7 +112,7 @@
     "period": "contemporary"
   },
   {
-    "id": 15,
+    "id": "15",
     "title": "Reflected Light on Buildings (morning)",
     "composer": "Erik Pearson",
     "voicing": "SATGb",
@@ -120,7 +120,7 @@
     "period": "contemporary"
   },
   {
-    "id": 16,
+    "id": "16",
     "title": "A Day in the Park (suite)",
     "composer": "LaNoue Davenport",
     "voicing": "SATB",
@@ -128,7 +128,7 @@
     "period": "contemporary"
   },
   {
-    "id": 17,
+    "id": "17",
     "title": "Nigun dia sin ti - No Day Without You",
     "composer": "Heger, Uwe",
     "voicing": "SATB",
@@ -136,7 +136,7 @@
     "period": "contemporary"
   },
   {
-    "id": 18,
+    "id": "18",
     "title": "Signor mio caro",
     "composer": "daRore, Cipriano",
     "voicing": "SATB",
@@ -144,7 +144,7 @@
     "period": "renaissance"
   },
   {
-    "id": 19,
+    "id": "19",
     "title": "Vive Le Roy",
     "composer": "unknown",
     "voicing": "SATB",
@@ -152,7 +152,7 @@
     "period": "renaissance"
   },
   {
-    "id": 20,
+    "id": "20",
     "title": "Ancor che col Partire",
     "composer": "daRore, Cipriano",
     "voicing": "SATB",
@@ -160,7 +160,7 @@
     "period": "renaissance"
   },
   {
-    "id": 21,
+    "id": "21",
     "title": "The Silver Swan",
     "composer": "Orlando Gibbons",
     "voicing": "SAATB",
@@ -176,7 +176,7 @@
     "period": "renaissance"
   },
   {
-    "id": 23,
+    "id": "23",
     "title": "XXXIX",
     "composer": "Giamberti, Gioseppe",
     "voicing": "TT",
@@ -184,7 +184,7 @@
     "period": "renaissance"
   },
   {
-    "id": 24,
+    "id": "24",
     "title": "Alix avoit aux dens la malerage",
     "composer": "Crecquillon, Thomas",
     "voicing": "SATB",
@@ -200,7 +200,7 @@
     "period": "renaissance"
   },
   {
-    "id": 26,
+    "id": "26",
     "title": "Un Jour Vis",
     "composer": "unknown",
     "voicing": "ATTB",
@@ -208,15 +208,15 @@
     "period": "renaissance"
   },
   {
-    "id": 27,
+    "id": "27",
     "title": "XXIX (Courante)",
     "composer": "Simpson, Thomas",
     "voicing": "SAATB",
     "edition": "photocopy",
-    "period": "renaissance"
+    "period": "baroque"
   },
   {
-    "id": 28,
+    "id": "28",
     "title": "Adoramus te, Christe",
     "composer": "Gasparini, Quirino",
     "voicing": "SATB",
@@ -224,7 +224,7 @@
     "period": "baroque"
   },
   {
-    "id": 29,
+    "id": "29",
     "title": "Ung gay bergier",
     "composer": "Crecquillon, Thomas",
     "voicing": "SATB",
@@ -232,7 +232,7 @@
     "period": "renaissance"
   },
   {
-    "id": 30,
+    "id": "30",
     "title": "Doulce Memoire",
     "composer": "Sandrin",
     "voicing": "AATB",
@@ -240,7 +240,7 @@
     "period": "renaissance"
   },
   {
-    "id": 31,
+    "id": "31",
     "title": "Suite for Four Recorders",
     "composer": "Endres, Olive P.",
     "voicing": "SATB",
@@ -248,7 +248,7 @@
     "period": "contemporary"
   },
   {
-    "id": 32,
+    "id": "32",
     "title": "Quartettino",
     "composer": "Genzmer, Harald",
     "voicing": "SATB",
@@ -256,7 +256,7 @@
     "period": "contemporary"
   },
   {
-    "id": 33,
+    "id": "33",
     "title": "Alpine Suite - Arrival at Zermatt",
     "composer": "Britten, Benjamin",
     "voicing": "SSA",
@@ -264,7 +264,7 @@
     "period": "contemporary"
   },
   {
-    "id": 34,
+    "id": "34",
     "title": "Jazzy Rondo",
     "composer": "Peskin, Carolyn",
     "voicing": "AB",
@@ -272,7 +272,7 @@
     "period": "contemporary"
   },
   {
-    "id": 35,
+    "id": "35",
     "title": "Happy Birthday - Variationen",
     "composer": "Friederici, Matthias",
     "voicing": "SAT",
@@ -280,7 +280,7 @@
     "period": "contemporary"
   },
   {
-    "id": 36,
+    "id": "36",
     "title": "Recorder Rally",
     "composer": "Maute, Matthias",
     "voicing": "SATB",
@@ -288,7 +288,7 @@
     "period": "contemporary"
   },
   {
-    "id": 37,
+    "id": "37",
     "title": "Four Moods",
     "composer": "Tasker, William",
     "voicing": "SATB",
@@ -296,7 +296,7 @@
     "period": "contemporary"
   },
   {
-    "id": 38,
+    "id": "38",
     "title": "Escondido",
     "composer": "unknown",
     "voicing": "SATB",
@@ -304,7 +304,7 @@
     "period": "folk"
   },
   {
-    "id": 39,
+    "id": "39",
     "title": "Pavan",
     "composer": "Tomkins, Thomas",
     "voicing": "SAATB",
@@ -312,7 +312,7 @@
     "period": "1600"
   },
   {
-    "id": 40,
+    "id": "40",
     "title": "Fantasia",
     "composer": "Mundy, William",
     "voicing": "SAATB",
@@ -320,7 +320,7 @@
     "period": "renaissance"
   },
   {
-    "id": 41,
+    "id": "41",
     "title": "Paduna and Galliard (XVIII)",
     "composer": "Stephan, Johann",
     "voicing": "SSATB",
@@ -328,7 +328,7 @@
     "period": "renaissance"
   },
   {
-    "id": 42,
+    "id": "42",
     "title": "Eine Studenten Music",
     "composer": "Rosenmuller, Johann",
     "voicing": "SSATBB",
@@ -336,7 +336,7 @@
     "period": "baroque"
   },
   {
-    "id": 43,
+    "id": "43",
     "title": "The King's Hunt",
     "composer": "Bull, John",
     "voicing": "SAT",
@@ -344,7 +344,7 @@
     "period": "renaissance"
   },
   {
-    "id": 44,
+    "id": "44",
     "title": "Gavotte",
     "composer": "d'Andrieu, Jean Francois",
     "voicing": "SAT",
@@ -352,7 +352,7 @@
     "period": "baroque"
   },
   {
-    "id": 45,
+    "id": "45",
     "title": "Pavan and Galliard a 5",
     "composer": "Byrd, William",
     "voicing": "SATTB",
@@ -360,15 +360,15 @@
     "period": "renaissance"
   },
   {
-    "id": 46,
+    "id": "46",
     "title": "XXIX",
     "composer": "Simpson, Thomas",
     "voicing": "SAATB",
     "edition": "photocopy",
-    "period": "renaissance"
+    "period": "baroque"
   },
   {
-    "id": 47,
+    "id": "47",
     "title": "Courtly Masquing Ayres",
     "composer": "Adson, John",
     "voicing": "SSAATB",
@@ -376,7 +376,7 @@
     "period": "baroque"
   },
   {
-    "id": 48,
+    "id": "48",
     "title": "Sanz cuer - Amis, dolens - Dame, par vous",
     "composer": "Machaut",
     "voicing": "AAA",
@@ -392,7 +392,7 @@
     "period": "renaissance"
   },
   {
-    "id": 50,
+    "id": "50",
     "title": "Canzoneta",
     "composer": "Lacerda, Osvaldo",
     "voicing": "SATB",
@@ -400,7 +400,7 @@
     "period": "contemporary"
   },
   {
-    "id": 51,
+    "id": "51",
     "title": "Suite for an Oriental  Bazaaar",
     "composer": "Sherman, Elna",
     "voicing": "SAT",
@@ -408,7 +408,7 @@
     "period": "contemporary"
   },
   {
-    "id": 52,
+    "id": "52",
     "title": "Ce moys de May",
     "composer": "Dufay, Guillaume",
     "voicing": "ATT",
@@ -416,7 +416,7 @@
     "period": "renaissance"
   },
   {
-    "id": 53,
+    "id": "53",
     "title": "In te, domine, speravi",
     "composer": "Josquin",
     "voicing": "ATTB",
@@ -424,7 +424,7 @@
     "period": "renaissance"
   },
   {
-    "id": 54,
+    "id": "54",
     "title": "Una Sanosa Porfia",
     "composer": "Encina, Juan del",
     "voicing": "SATB",
@@ -440,7 +440,7 @@
     "period": "renaissance"
   },
   {
-    "id": 56,
+    "id": "56",
     "title": "Frais et gaillard",
     "composer": "Clemens non Papa",
     "voicing": "SATB",
@@ -456,7 +456,7 @@
     "period": "renaissance"
   },
   {
-    "id": 58,
+    "id": "58",
     "title": "Ancor che col partire",
     "composer": "D'Avalos, Alfonso",
     "voicing": "SATB",
@@ -464,7 +464,7 @@
     "period": "renaissance"
   },
   {
-    "id": 59,
+    "id": "59",
     "title": "Tabour Pipe",
     "composer": "unknown",
     "voicing": "SATB",
@@ -472,7 +472,7 @@
     "period": "contemporary"
   },
   {
-    "id": 60,
+    "id": "60",
     "title": "Soft Walk",
     "composer": "unknown",
     "voicing": "SATB",
@@ -480,7 +480,7 @@
     "period": "contemporary"
   },
   {
-    "id": 61,
+    "id": "61",
     "title": "March in C",
     "composer": "Fischer, John",
     "voicing": "SATB",
@@ -504,7 +504,7 @@
     "period": "contemporary"
   },
   {
-    "id": 64,
+    "id": "64",
     "title": "Canon",
     "composer": "Bach, J.S.",
     "voicing": "SATB",
@@ -512,7 +512,7 @@
     "period": "baroque"
   },
   {
-    "id": 65,
+    "id": "65",
     "title": "Kanzonette",
     "composer": "Buxtehude",
     "voicing": "SATB",
@@ -520,7 +520,7 @@
     "period": "baroque"
   },
   {
-    "id": 66,
+    "id": "66",
     "title": "Scarborough Fair",
     "composer": "Teschner (arr)",
     "voicing": "SATB",
@@ -528,7 +528,7 @@
     "period": "folk"
   },
   {
-    "id": 67,
+    "id": "67",
     "title": "Dynamo",
     "composer": "Rose, Pete",
     "voicing": "SATB",
@@ -536,7 +536,7 @@
     "period": "contemporary"
   },
   {
-    "id": 68,
+    "id": "68",
     "title": "Bushes and Briars",
     "composer": "unknown",
     "voicing": "SATB",
@@ -568,7 +568,7 @@
     "period": "folk"
   },
   {
-    "id": 72,
+    "id": "72",
     "title": "The Clammy Trip",
     "composer": "unknown",
     "voicing": "SATB",
@@ -576,7 +576,7 @@
     "period": "unknown"
   },
   {
-    "id": 73,
+    "id": "73",
     "title": "Hullabaloo belay",
     "composer": "unknown",
     "voicing": "SATB",
@@ -584,7 +584,7 @@
     "period": "unknown"
   },
   {
-    "id": 74,
+    "id": "74",
     "title": "Fonerier",
     "composer": "Hagvali, Bjorn",
     "voicing": "SATB",
@@ -592,7 +592,7 @@
     "period": "contemporary"
   },
   {
-    "id": 75,
+    "id": "75",
     "title": "Capriccio",
     "composer": "Staeps, Hans Ulrich",
     "voicing": "AT",
@@ -600,7 +600,7 @@
     "period": "contemporary"
   },
   {
-    "id": 76,
+    "id": "76",
     "title": "Prelude from Douze pieces d'Orgue",
     "composer": "Lemmens, Jacques Nicolas",
     "voicing": "SATB",
@@ -608,7 +608,7 @@
     "period": "1850"
   },
   {
-    "id": 77,
+    "id": "77",
     "title": "Barechu",
     "composer": "Rossi, Salamone",
     "voicing": "ATB",
@@ -616,7 +616,7 @@
     "period": "renaissance"
   },
   {
-    "id": 78,
+    "id": "78",
     "title": "Shir Hama'alot",
     "composer": "Rossi, Salamone",
     "voicing": "ATB",
@@ -624,7 +624,7 @@
     "period": "renaissance"
   },
   {
-    "id": 79,
+    "id": "79",
     "title": "Dov'e, donna, il mio sole",
     "composer": "de Wert, Giaches",
     "voicing": "SATB",
@@ -632,7 +632,7 @@
     "period": "renaissance"
   },
   {
-    "id": 80,
+    "id": "80",
     "title": "Elohim Hashivenu",
     "composer": "Rossi, Salamone",
     "voicing": "SATB",
@@ -648,7 +648,7 @@
     "period": "renaissance"
   },
   {
-    "id": 82,
+    "id": "82",
     "title": "Adoramus te, Christe",
     "composer": "Monteverdi, Claudio",
     "voicing": "SSATTB",
@@ -656,7 +656,7 @@
     "period": "renaissance"
   },
   {
-    "id": 83,
+    "id": "83",
     "title": "Vive Le Roy",
     "composer": "Josquin",
     "voicing": "ATTB",
@@ -664,7 +664,7 @@
     "period": "renaissance"
   },
   {
-    "id": 84,
+    "id": "84",
     "title": "Il bell humore",
     "composer": "Gastoldi, Giovanni Giacomo",
     "voicing": "SSATB",
@@ -672,7 +672,7 @@
     "period": "renaissance"
   },
   {
-    "id": 85,
+    "id": "85",
     "title": "Sonata for seven recorders",
     "composer": "Schmelzer",
     "voicing": "SSAATTB",
@@ -680,7 +680,7 @@
     "period": "late baroque"
   },
   {
-    "id": 86,
+    "id": "86",
     "title": "Two Sonatas in Five Parts",
     "composer": "Legrenzi, Giovanni",
     "voicing": "SSATB",
@@ -688,7 +688,7 @@
     "period": "baroque"
   },
   {
-    "id": 87,
+    "id": "87",
     "title": "Herr Jesu Christ, ich weiss gar wohl",
     "composer": "Buxtehude",
     "voicing": "SATB",
@@ -696,7 +696,7 @@
     "period": "baroque"
   },
   {
-    "id": 88,
+    "id": "88",
     "title": "Alle Menschen mussen sterben",
     "composer": "Bach, J.S.",
     "voicing": "SATB",
@@ -704,7 +704,7 @@
     "period": "baroque"
   },
   {
-    "id": 89,
+    "id": "89",
     "title": "BVW 606 Vom Himmel hoch, do komm ich her",
     "composer": "Bach, J.S.",
     "voicing": "SATB",
@@ -712,7 +712,7 @@
     "period": "baroque"
   },
   {
-    "id": 90,
+    "id": "90",
     "title": "Im Sommer sein die Brunnlein gsund",
     "composer": "Scandello, Antonio",
     "voicing": "SATB",
@@ -720,7 +720,7 @@
     "period": "renaissance"
   },
   {
-    "id": 91,
+    "id": "91",
     "title": "Fine Knacks for Ladies",
     "composer": "Dowland, John",
     "voicing": "SATB",
@@ -728,7 +728,7 @@
     "period": "renaissance"
   },
   {
-    "id": 92,
+    "id": "92",
     "title": "Variations on Drmes",
     "composer": "Bishop, Martha",
     "voicing": "SATB",
@@ -736,7 +736,7 @@
     "period": "contemporary"
   },
   {
-    "id": 93,
+    "id": "93",
     "title": "Blue Monday",
     "composer": "Heger, Uwe",
     "voicing": "SAT",
@@ -744,7 +744,7 @@
     "period": "contemporary"
   },
   {
-    "id": 94,
+    "id": "94",
     "title": "Madona",
     "composer": "unknown",
     "voicing": "SAATB",
@@ -760,7 +760,7 @@
     "period": "klezmer"
   },
   {
-    "id": 96,
+    "id": "96",
     "title": "Canzona Franzesa Chromatica",
     "composer": "Trabaci",
     "voicing": "SATB",
@@ -776,7 +776,7 @@
     "period": "baroque"
   },
   {
-    "id": 98,
+    "id": "98",
     "title": "La Merula",
     "composer": "Merula, Tarquinio",
     "voicing": "SATB",
@@ -784,7 +784,7 @@
     "period": "baroque"
   },
   {
-    "id": 99,
+    "id": "99",
     "title": "Browning my dear",
     "composer": "Stonings, Henry",
     "voicing": "SATTB",
@@ -792,7 +792,7 @@
     "period": "baroque"
   },
   {
-    "id": 100,
+    "id": "100",
     "title": "2 Canzoni da sonar",
     "composer": "Qualiati, Paolo",
     "voicing": "SATB",
@@ -808,7 +808,7 @@
     "period": "baroque"
   },
   {
-    "id": 102,
+    "id": "102",
     "title": "Se per haveri oime",
     "composer": "Monteverdi, Claudio",
     "voicing": "SATTB",
@@ -816,7 +816,7 @@
     "period": "baroque"
   },
   {
-    "id": 103,
+    "id": "103",
     "title": "Psalm 42 (Comfort ye my people)",
     "composer": "Bourgeois, Louis",
     "voicing": "SATB",
@@ -840,7 +840,7 @@
     "period": "contemporary"
   },
   {
-    "id": 106,
+    "id": "106",
     "title": "Ballet",
     "composer": "Praetorius, Michael",
     "voicing": "SATB",
@@ -848,7 +848,7 @@
     "period": "baroque"
   },
   {
-    "id": 107,
+    "id": "107",
     "title": "Pavan Lachrimae Verae",
     "composer": "Dowland, John",
     "voicing": "SATTB",
@@ -856,7 +856,7 @@
     "period": "baroque"
   },
   {
-    "id": 108,
+    "id": "108",
     "title": "Come Away Death",
     "composer": "Williams, Ralph Vaughan",
     "voicing": "SAATB",
@@ -864,7 +864,7 @@
     "period": "contemporary"
   },
   {
-    "id": 109,
+    "id": "109",
     "title": "Phillis I Fain Would Die Now",
     "composer": "Morley, Thomas",
     "voicing": "SSAATTB",
@@ -880,7 +880,7 @@
     "period": "baroque"
   },
   {
-    "id": 111,
+    "id": "111",
     "title": "Galliard The Sighes, The fruit of love",
     "composer": "Holborne, Anthony",
     "voicing": "SAATB",
@@ -888,7 +888,7 @@
     "period": "baroque"
   },
   {
-    "id": 112,
+    "id": "112",
     "title": "Gloria d'Amore",
     "composer": "Gastoldi, Giovanni Giacomo",
     "voicing": "SAATB",
@@ -896,7 +896,7 @@
     "period": "baroque"
   },
   {
-    "id": 113,
+    "id": "113",
     "title": "Il contento",
     "composer": "Gastoldi, Giovanni Giacomo",
     "voicing": "SAATB",
@@ -904,7 +904,7 @@
     "period": "baroque"
   },
   {
-    "id": 114,
+    "id": "114",
     "title": "Il martellato",
     "composer": "Gastoldi, Giovanni Giacomo",
     "voicing": "SAATB",
@@ -920,7 +920,7 @@
     "period": "renaissance"
   },
   {
-    "id": 116,
+    "id": "116",
     "title": "Agnus Dei",
     "composer": "Hassler, Hans Leo",
     "voicing": "SATB",
@@ -928,7 +928,7 @@
     "period": "baroque"
   },
   {
-    "id": 117,
+    "id": "117",
     "title": "La Sol Fa Re Mi",
     "composer": "Tiburtino",
     "voicing": "ATB",
@@ -936,7 +936,7 @@
     "period": "renaissance"
   },
   {
-    "id": 118,
+    "id": "118",
     "title": "Suite fur Blockflotenquartett",
     "composer": "Tasker, William",
     "voicing": "SATB",
@@ -944,7 +944,7 @@
     "period": "contemporary"
   },
   {
-    "id": 119,
+    "id": "119",
     "title": "A String of Pearls",
     "composer": "Gray, Jerry - arr Paul Leenhouts",
     "voicing": "SATB",
@@ -952,7 +952,7 @@
     "period": "contemporary"
   },
   {
-    "id": 120,
+    "id": "120",
     "title": "The Silver Swan",
     "composer": "arr Staeps",
     "voicing": "SAT",
@@ -960,7 +960,7 @@
     "period": "contemporary"
   },
   {
-    "id": 121,
+    "id": "121",
     "title": "Rondelli",
     "composer": "Staeps, Hans Ulrich",
     "voicing": "SSAAT",
@@ -968,7 +968,7 @@
     "period": "contemporary"
   },
   {
-    "id": 122,
+    "id": "122",
     "title": "Kanon, Walzer, Marsch",
     "composer": "Staeps, Hans Ulrich",
     "voicing": "SAT",
@@ -976,7 +976,7 @@
     "period": "contemporary"
   },
   {
-    "id": 123,
+    "id": "123",
     "title": "Tanzbuchlein (10 short pieces)",
     "composer": "Poser, Hans",
     "voicing": "SAT",
@@ -984,7 +984,7 @@
     "period": "contemporary"
   },
   {
-    "id": 124,
+    "id": "124",
     "title": "XII",
     "composer": "Fischer, Johann Kaspar",
     "voicing": "SATB",
@@ -992,7 +992,7 @@
     "period": "late baroque"
   },
   {
-    "id": 125,
+    "id": "125",
     "title": "LeClercq's Air",
     "composer": "Wood, Robert E.",
     "voicing": "SATB",
@@ -1000,7 +1000,7 @@
     "period": "contemporary"
   },
   {
-    "id": 126,
+    "id": "126",
     "title": "Scherzo",
     "composer": "Britten, Benjamin",
     "voicing": "SATB",
@@ -1008,7 +1008,7 @@
     "period": "contemporary"
   },
   {
-    "id": 127,
+    "id": "127",
     "title": "The Streets of Laredo",
     "composer": "unknown",
     "voicing": "SAT",
@@ -1016,7 +1016,7 @@
     "period": "unknown"
   },
   {
-    "id": 128,
+    "id": "128",
     "title": "Frankie and Johnny",
     "composer": "unknown",
     "voicing": "SAT",
@@ -1024,7 +1024,7 @@
     "period": "unknown"
   },
   {
-    "id": 129,
+    "id": "129",
     "title": "Wayfaring Stranger",
     "composer": "unknown",
     "voicing": "SAT",
@@ -1032,7 +1032,7 @@
     "period": "unknown"
   },
   {
-    "id": 130,
+    "id": "130",
     "title": "Kanzone",
     "composer": "Staden, Joh.",
     "voicing": "SATB",
@@ -1040,7 +1040,7 @@
     "period": "baroque"
   },
   {
-    "id": 131,
+    "id": "131",
     "title": "Paduana",
     "composer": "Borchgreving",
     "voicing": "SAATB",
@@ -1048,7 +1048,7 @@
     "period": "baroque"
   },
   {
-    "id": 132,
+    "id": "132",
     "title": "modulating canon",
     "composer": "Kimberger, Johann Phillip",
     "voicing": "SATB",
@@ -1056,7 +1056,7 @@
     "period": "late baroque"
   },
   {
-    "id": 133,
+    "id": "133",
     "title": "Chaconne - The Gordion Knot Unty'd",
     "composer": "Purcell, Henry",
     "voicing": "SATB",
@@ -1064,7 +1064,7 @@
     "period": "baroque"
   },
   {
-    "id": 134,
+    "id": "134",
     "title": "The Lost Years - Die verlorenen Jahre",
     "composer": "Heger, Uwe",
     "voicing": "SATB",
@@ -1072,7 +1072,7 @@
     "period": "klezmer"
   },
   {
-    "id": 135,
+    "id": "135",
     "title": "Il bell' humore",
     "composer": "Gastoldi, Giovanni Giacomo",
     "voicing": "SATTB",
@@ -1080,7 +1080,7 @@
     "period": "baroque"
   },
   {
-    "id": 136,
+    "id": "136",
     "title": "All'hora i pastor tutti",
     "composer": "Monteverdi, Claudio",
     "voicing": "SAATB",
@@ -1088,7 +1088,7 @@
     "period": "baroque"
   },
   {
-    "id": 137,
+    "id": "137",
     "title": "Dame, Se Vous N'Avez - Rondeau 13",
     "composer": "Machaut",
     "voicing": "ATT",
@@ -1096,7 +1096,7 @@
     "period": "renaissance"
   },
   {
-    "id": 138,
+    "id": "138",
     "title": "Quam pulchra es",
     "composer": "Dunstable,John",
     "voicing": "ATB",
@@ -1104,7 +1104,7 @@
     "period": "renaissance"
   },
   {
-    "id": 139,
+    "id": "139",
     "title": "Fantasia on \"Faithless Nancy Dawson\"",
     "composer": "Neuman, Phil",
     "voicing": "SATB",
@@ -1112,7 +1112,7 @@
     "period": "contemporary"
   },
   {
-    "id": 140,
+    "id": "140",
     "title": "Agatha (Galliards)",
     "composer": "Widmann, Erasmus",
     "voicing": "SATB",
@@ -1120,7 +1120,7 @@
     "period": "renaissance"
   },
   {
-    "id": 141,
+    "id": "141",
     "title": "Je ne puis vivre",
     "composer": "Busnois, Antoine",
     "voicing": "ATB",
@@ -1128,7 +1128,7 @@
     "period": "renaissance"
   },
   {
-    "id": 142,
+    "id": "142",
     "title": "Mais Languiray Je",
     "composer": "Clemens non Papa",
     "voicing": "SATB",
@@ -1136,7 +1136,7 @@
     "period": "renaissance"
   },
   {
-    "id": 143,
+    "id": "143",
     "title": "La Palabra del Senor Es Recta",
     "composer": "Garcia, Juan Luis",
     "voicing": "SATB",
@@ -1144,7 +1144,7 @@
     "period": "folk"
   },
   {
-    "id": 144,
+    "id": "144",
     "title": "Pange Lingua",
     "composer": "Touront",
     "voicing": "SATB",
@@ -1152,7 +1152,7 @@
     "period": "renaissance"
   },
   {
-    "id": 145,
+    "id": "145",
     "title": "O Primavera",
     "composer": "Luzzaschi",
     "voicing": "SATB",
@@ -1160,7 +1160,7 @@
     "period": "renaissance"
   },
   {
-    "id": 146,
+    "id": "146",
     "title": "Ave Maris Stella (5 settings)",
     "composer": "Agricola, Anon, Hofhaimer",
     "voicing": "SATB",
@@ -1168,7 +1168,7 @@
     "period": "renaissance"
   },
   {
-    "id": 147,
+    "id": "147",
     "title": "Fuga III",
     "composer": "Handel, Georg Friedrich",
     "voicing": "SATB",
@@ -1184,7 +1184,7 @@
     "period": "cont"
   },
   {
-    "id": 149,
+    "id": "149",
     "title": "Menuet",
     "composer": "Couperin, Francois",
     "voicing": "SAT",
@@ -1192,7 +1192,7 @@
     "period": "baroque"
   },
   {
-    "id": 150,
+    "id": "150",
     "title": "Rondeau",
     "composer": "Hotteterre, Jacques Martin",
     "voicing": "AA",
@@ -1200,7 +1200,7 @@
     "period": "baroque"
   },
   {
-    "id": 151,
+    "id": "151",
     "title": "Canonic Processional (at the Unison)",
     "composer": "unknown",
     "voicing": "TT",
@@ -1208,7 +1208,7 @@
     "period": "unknown"
   },
   {
-    "id": 152,
+    "id": "152",
     "title": "Basiisk Barcarole",
     "composer": "unknown",
     "voicing": "AT",
@@ -1216,7 +1216,7 @@
     "period": "unknown"
   },
   {
-    "id": 153,
+    "id": "153",
     "title": "Rubum Quem",
     "composer": "Tye, Christopher",
     "voicing": "SATTB",
@@ -1224,7 +1224,7 @@
     "period": "renaissance"
   },
   {
-    "id": 154,
+    "id": "154",
     "title": "Sinfonia I",
     "composer": "Bach, J.S.",
     "voicing": "SAB",
@@ -1232,7 +1232,7 @@
     "period": "baroque"
   },
   {
-    "id": 155,
+    "id": "155",
     "title": "Fuga iX",
     "composer": "Bach, J.S.",
     "voicing": "SATB",
@@ -1240,7 +1240,7 @@
     "period": "baroque"
   },
   {
-    "id": 156,
+    "id": "156",
     "title": "Fantasia II",
     "composer": "Holborne, Anthony",
     "voicing": "ATB",
@@ -1248,7 +1248,7 @@
     "period": "baroque"
   },
   {
-    "id": 157,
+    "id": "157",
     "title": "Neopolitan Instrumental Dances",
     "composer": "Marra, others",
     "voicing": "SATB",
@@ -1256,7 +1256,7 @@
     "period": "baroque"
   },
   {
-    "id": 158,
+    "id": "158",
     "title": "Highland Dance",
     "composer": "Kimberling, Clark",
     "voicing": "SAT",
@@ -1264,7 +1264,7 @@
     "period": "folk"
   },
   {
-    "id": 159,
+    "id": "159",
     "title": "Intrada",
     "composer": "Franck, Melchior",
     "voicing": "SSATTB",
@@ -1272,7 +1272,7 @@
     "period": "baroque"
   },
   {
-    "id": 160,
+    "id": "160",
     "title": "Intrada XVII",
     "composer": "unknown",
     "voicing": "SSATTB",
@@ -1280,7 +1280,7 @@
     "period": "baroque"
   },
   {
-    "id": 161,
+    "id": "161",
     "title": "Sinfonia I and II",
     "composer": "Malvezzi, Cristoforo",
     "voicing": "SSATTB",
@@ -1304,7 +1304,7 @@
     "period": "baroque"
   },
   {
-    "id": 164,
+    "id": "164",
     "title": "Le Bourgeois Gentilhomme",
     "composer": "Lully, Jean Baptiste",
     "voicing": "SAATB",
@@ -1312,7 +1312,7 @@
     "period": "baroque"
   },
   {
-    "id": 165,
+    "id": "165",
     "title": "Ce moys de may",
     "composer": "Dufay, Guillaume",
     "voicing": "ATB",
@@ -1328,7 +1328,7 @@
     "period": "baroque"
   },
   {
-    "id": 167,
+    "id": "167",
     "title": "Gavotte",
     "composer": "Holst, Gustav",
     "voicing": "SATB",
@@ -1336,7 +1336,7 @@
     "period": "contemporary"
   },
   {
-    "id": 168,
+    "id": "168",
     "title": "El cant des ocells",
     "composer": "traditional Carol",
     "voicing": "SAT",
@@ -1344,7 +1344,7 @@
     "period": "folk"
   },
   {
-    "id": 169,
+    "id": "169",
     "title": "Helas mon bien",
     "composer": "Olbrecht, Jacob",
     "voicing": "ATB",
@@ -1352,7 +1352,7 @@
     "period": "renaissance"
   },
   {
-    "id": 170,
+    "id": "170",
     "title": "Fors seulement contre ce qu'ay promys",
     "composer": "Ockeghem",
     "voicing": "ATB",
@@ -1360,7 +1360,7 @@
     "period": "renaissance"
   },
   {
-    "id": 171,
+    "id": "171",
     "title": "Fugue 3",
     "composer": "anonymous",
     "voicing": "SATB",
@@ -1368,7 +1368,7 @@
     "period": "baroque"
   },
   {
-    "id": 172,
+    "id": "172",
     "title": "Daphne",
     "composer": "anonymous",
     "voicing": "SATTB",
@@ -1376,7 +1376,7 @@
     "period": "baroque"
   },
   {
-    "id": 173,
+    "id": "173",
     "title": "La Alfonsina",
     "composer": "Verbonnet, Johannes Ghiselin",
     "voicing": "ATB",
@@ -1384,7 +1384,7 @@
     "period": "renaissance"
   },
   {
-    "id": 174,
+    "id": "174",
     "title": "De tous bien playne",
     "composer": "Hayne van Ghizeghem",
     "voicing": "ATTB",
@@ -1392,7 +1392,7 @@
     "period": "renaissance"
   },
   {
-    "id": 175,
+    "id": "175",
     "title": "Now is the Month of Maying",
     "composer": "Morley, Thomas",
     "voicing": "SAATB",
@@ -1400,7 +1400,7 @@
     "period": "renaissance"
   },
   {
-    "id": 176,
+    "id": "176",
     "title": "Tant que vivrai",
     "composer": "de Sermisy, Claudin",
     "voicing": "TTTB",
@@ -1408,7 +1408,7 @@
     "period": "renaissance"
   },
   {
-    "id": 177,
+    "id": "177",
     "title": "Je fille quant dieu",
     "composer": "Van Wilder, Philip",
     "voicing": "STTTB",
@@ -1416,7 +1416,7 @@
     "period": "renaissance"
   },
   {
-    "id": 178,
+    "id": "178",
     "title": "Watkins' Ale",
     "composer": "Dorothy Weld Lute Book 1590",
     "voicing": "SATB",
@@ -1424,7 +1424,7 @@
     "period": "renaissance"
   },
   {
-    "id": 179,
+    "id": "179",
     "title": "The Honie Suckle",
     "composer": "Holborne, Anthony",
     "voicing": "SATTB",
@@ -1440,7 +1440,7 @@
     "period": "renaissance"
   },
   {
-    "id": 181,
+    "id": "181",
     "title": "Suite No. 1 in D minor",
     "composer": "Locke, Matthew",
     "voicing": "SATB",
@@ -1448,7 +1448,7 @@
     "period": "baroque"
   },
   {
-    "id": 182,
+    "id": "182",
     "title": "Three Pieces for Four Recorders",
     "composer": "Jenkins, John",
     "voicing": "SATB",
@@ -1456,7 +1456,7 @@
     "period": "baroque"
   },
   {
-    "id": 183,
+    "id": "183",
     "title": "Shoot, False Love, I care not, others",
     "composer": "Morley, Thomas",
     "voicing": "SATTB",
@@ -1472,7 +1472,7 @@
     "period": "baroque"
   },
   {
-    "id": 185,
+    "id": "185",
     "title": "Jay pris amours",
     "composer": "Ghiselin, Johannes",
     "voicing": "SATB",
@@ -1480,7 +1480,7 @@
     "period": "renaissance"
   },
   {
-    "id": 186,
+    "id": "186",
     "title": "Fors Seulement",
     "composer": "Ghiselin, Johannes",
     "voicing": "SATB",
@@ -1488,7 +1488,7 @@
     "period": "renaissance"
   },
   {
-    "id": 187,
+    "id": "187",
     "title": "Ave Regina Coelorum / O Decus Innocente",
     "composer": "Anonymous",
     "voicing": "SATB",
@@ -1496,7 +1496,7 @@
     "period": "renaissance"
   },
   {
-    "id": 188,
+    "id": "188",
     "title": "Fortunata disperata",
     "composer": "Anonymous",
     "voicing": "ATTB",
@@ -1504,7 +1504,7 @@
     "period": "renaissance"
   },
   {
-    "id": 189,
+    "id": "189",
     "title": "Dilla da l'aqua",
     "composer": "Patavino, Francesco",
     "voicing": "ATTB",
@@ -1512,7 +1512,7 @@
     "period": "renaissance"
   },
   {
-    "id": 190,
+    "id": "190",
     "title": "Fuga",
     "composer": "Diomedes, Cato",
     "voicing": "SATB",
@@ -1520,7 +1520,7 @@
     "period": "renaissance"
   },
   {
-    "id": 191,
+    "id": "191",
     "title": "Piece en fa majeur",
     "composer": "Franck, Cesar",
     "voicing": "SATB",
@@ -1528,7 +1528,7 @@
     "period": "1800's"
   },
   {
-    "id": 192,
+    "id": "192",
     "title": "Recorder Whimsey",
     "composer": "Chaudoir",
     "voicing": "ATB",
@@ -1536,7 +1536,7 @@
     "period": "contemporary"
   },
   {
-    "id": 193,
+    "id": "193",
     "title": "6 Fantasies ",
     "composer": "Blankes, Edward",
     "voicing": "ATB",
@@ -1544,7 +1544,7 @@
     "period": "baroque"
   },
   {
-    "id": 194,
+    "id": "194",
     "title": "Quartettino",
     "composer": "Scarlatti, Alessandro",
     "voicing": "AAAB",
@@ -1568,7 +1568,7 @@
     "period": "renaissance"
   },
   {
-    "id": 197,
+    "id": "197",
     "title": "All' arm' all' arm'",
     "composer": "Agostini, Lodovico",
     "voicing": "AATTB",
@@ -1576,7 +1576,7 @@
     "period": "renaissance"
   },
   {
-    "id": 198,
+    "id": "198",
     "title": "Tre cose son' in terra",
     "composer": "Agostini, Lodovico",
     "voicing": "AATTB",
@@ -1584,7 +1584,7 @@
     "period": "renaissance"
   },
   {
-    "id": 199,
+    "id": "199",
     "title": "E levaime d'una bella mattina",
     "composer": "Azzaiolo, Filippo",
     "voicing": "SATB",
@@ -1592,7 +1592,7 @@
     "period": "renaissance"
   },
   {
-    "id": 200,
+    "id": "200",
     "title": "Girometta, senza te (Napolitana)",
     "composer": "Azzaiolo, Filippo",
     "voicing": "SATB",
@@ -1600,7 +1600,7 @@
     "period": "renaissance"
   },
   {
-    "id": 201,
+    "id": "201",
     "title": "Mille gentil salute",
     "composer": "Azzaiolo, Filippo",
     "voicing": "SATB",
@@ -1608,7 +1608,7 @@
     "period": "renaissance"
   },
   {
-    "id": 202,
+    "id": "202",
     "title": "Solo e pensoso",
     "composer": "Agostini, Lodovico",
     "voicing": "SATTB",
@@ -1616,7 +1616,7 @@
     "period": "renaissance"
   },
   {
-    "id": 203,
+    "id": "203",
     "title": "La pastorella mia",
     "composer": "Agostini, Lodovico",
     "voicing": "AATTB",
@@ -1624,7 +1624,7 @@
     "period": "renaissance"
   },
   {
-    "id": 204,
+    "id": "204",
     "title": "Those Dainty Daffadillies",
     "composer": "Morley, Thomas",
     "voicing": "SATTB",
@@ -1648,7 +1648,7 @@
     "period": "renaissance"
   },
   {
-    "id": 207,
+    "id": "207",
     "title": "Airs from \"The Beggar's Opera\"",
     "composer": "Pepusch, Johan Cristoph",
     "voicing": "SATB",
@@ -1656,15 +1656,15 @@
     "period": "late baroque"
   },
   {
-    "id": 208,
-    "title": "Samiotissa",
+    "id": "208",
+    "title": "Albanian Folk Song, Samiotissa",
     "composer": "arr. Emilie George",
     "voicing": "SATB",
     "edition": "photocopy",
     "period": "contemporary"
   },
   {
-    "id": 209,
+    "id": "209",
     "title": "Opus 88",
     "composer": "Ruthenberg, William",
     "voicing": "SATB",
@@ -1672,7 +1672,7 @@
     "period": "contemporary"
   },
   {
-    "id": 210,
+    "id": "210",
     "title": "Fantazia Super Fa Re Mi",
     "composer": "Gilbert, Adam Knight",
     "voicing": "SATB",
@@ -1680,7 +1680,7 @@
     "period": "contemporary"
   },
   {
-    "id": 211,
+    "id": "211",
     "title": "Belmont Street Bergamasca",
     "composer": "Nolan, Sean",
     "voicing": "ATB",
@@ -1688,7 +1688,7 @@
     "period": "contemporary"
   },
   {
-    "id": 212,
+    "id": "212",
     "title": "Bonbarde",
     "composer": "Perrinet",
     "voicing": "AABB",
@@ -1696,7 +1696,7 @@
     "period": "medieval"
   },
   {
-    "id": 213,
+    "id": "213",
     "title": "Fuga in g",
     "composer": "Kerckhoven, A. van den",
     "voicing": "SATB",
@@ -1704,7 +1704,7 @@
     "period": "baroque"
   },
   {
-    "id": 214,
+    "id": "214",
     "title": "Sonata \"La Marina\"",
     "composer": "Gussago, Cesario",
     "voicing": "SATTTB",
@@ -1712,7 +1712,7 @@
     "period": "baroque"
   },
   {
-    "id": 215,
+    "id": "215",
     "title": "Kein Grosser Freud",
     "composer": "Hassler, Hans Leo",
     "voicing": "SATB",
@@ -1720,7 +1720,7 @@
     "period": "baroque"
   },
   {
-    "id": 216,
+    "id": "216",
     "title": "Conditor alme siderum",
     "composer": "Dufay, Guillaume",
     "voicing": "TTT",
@@ -1728,7 +1728,7 @@
     "period": "renaissance"
   },
   {
-    "id": 217,
+    "id": "217",
     "title": "Ave Maria",
     "composer": "de Victoria, Tomas Luis",
     "voicing": "SATB",
@@ -1736,7 +1736,7 @@
     "period": "renaissance"
   },
   {
-    "id": 218,
+    "id": "218",
     "title": "Ave Verum",
     "composer": "Byrd, William",
     "voicing": "SATB",
@@ -1744,7 +1744,7 @@
     "period": "baroque"
   },
   {
-    "id": 219,
+    "id": "219",
     "title": "O Virgo splendens",
     "composer": "Anonymous",
     "voicing": "TTT",
@@ -1752,7 +1752,7 @@
     "period": "renaissance"
   },
   {
-    "id": 220,
+    "id": "220",
     "title": "Fantasia chromatica",
     "composer": "Cato, Diomedes",
     "voicing": "ATTB",
@@ -1760,7 +1760,7 @@
     "period": "baroque"
   },
   {
-    "id": 221,
+    "id": "221",
     "title": "O Felici Occhi Miei",
     "composer": "Arcadelt, Jacques",
     "voicing": "SATB",
@@ -1768,7 +1768,7 @@
     "period": "renaissance"
   },
   {
-    "id": 222,
+    "id": "222",
     "title": "Magnificat Fuga",
     "composer": "Pachelbel, Johann",
     "voicing": "SATB",
@@ -1776,7 +1776,7 @@
     "period": "baroque"
   },
   {
-    "id": 223,
+    "id": "223",
     "title": "Suite 11",
     "composer": "Schein, Johann",
     "voicing": "SATTB",
@@ -1784,7 +1784,7 @@
     "period": "baroque"
   },
   {
-    "id": 224,
+    "id": "224",
     "title": "Par Maintes Foys",
     "composer": "Vaillant, Johannes",
     "voicing": "ATT",
@@ -1792,7 +1792,7 @@
     "period": "renaissance"
   },
   {
-    "id": 225,
+    "id": "225",
     "title": "Trio G-Dur",
     "composer": "Haydn, Joseph",
     "voicing": "ATB",
@@ -1800,7 +1800,7 @@
     "period": "classical"
   },
   {
-    "id": 226,
+    "id": "226",
     "title": "Five Imitations for Three Recorders",
     "composer": "Vecchi, Orazio",
     "voicing": "SAT",
@@ -1808,7 +1808,7 @@
     "period": "renaissance"
   },
   {
-    "id": 227,
+    "id": "227",
     "title": "6 Instrumental Pieces from Florence",
     "composer": "Anthology",
     "voicing": "ATB",
@@ -1816,7 +1816,7 @@
     "period": "renaissance"
   },
   {
-    "id": 228,
+    "id": "228",
     "title": "Je me complains piteusement",
     "composer": "Dufay, Guillaume",
     "voicing": "ATT",
@@ -1824,7 +1824,7 @@
     "period": "renaissance"
   },
   {
-    "id": 229,
+    "id": "229",
     "title": "Sonata II (Op.2, No. 2)",
     "composer": "unknown",
     "voicing": "ATB",
@@ -1832,7 +1832,7 @@
     "period": "baroque"
   },
   {
-    "id": 230,
+    "id": "230",
     "title": "Ballatae collection",
     "composer": "unknown",
     "voicing": "ATT",
@@ -1848,7 +1848,7 @@
     "period": "renaissance"
   },
   {
-    "id": 232,
+    "id": "232",
     "title": "Phyton le Mervilleus Serpent",
     "composer": "Machaut",
     "voicing": "ATT",
@@ -1856,7 +1856,7 @@
     "period": "renaissance"
   },
   {
-    "id": 233,
+    "id": "233",
     "title": "Giunta vaga bilta",
     "composer": "Landini, Francesco",
     "voicing": "ATB",
@@ -1864,7 +1864,7 @@
     "period": "renaissance"
   },
   {
-    "id": 234,
+    "id": "234",
     "title": "2 French Songs of the fifteenth century",
     "composer": "Anthology",
     "voicing": "ATB",
@@ -1872,7 +1872,7 @@
     "period": "renaissance"
   },
   {
-    "id": 235,
+    "id": "235",
     "title": "renaissance collection",
     "composer": "Anthology",
     "voicing": "AAT",
@@ -1880,7 +1880,7 @@
     "period": "renaissance"
   },
   {
-    "id": 236,
+    "id": "236",
     "title": "Fui no Itororo - Brazilian Folksongs",
     "composer": "arr. David Goldstein",
     "voicing": "SAT",
@@ -1888,7 +1888,7 @@
     "period": "folk"
   },
   {
-    "id": 237,
+    "id": "237",
     "title": "Pastorals",
     "composer": "Barab, Seymour",
     "voicing": "SAT",
@@ -1896,7 +1896,7 @@
     "period": "contemporary"
   },
   {
-    "id": 238,
+    "id": "238",
     "title": "Music for Recorders - Dance",
     "composer": "Butt, James",
     "voicing": "SAT",
@@ -1904,7 +1904,7 @@
     "period": "contemporary"
   },
   {
-    "id": 239,
+    "id": "239",
     "title": "Six Short Pieces for Three Recorders",
     "composer": "Nelhybel, Vaclav",
     "voicing": "ATT",
@@ -1912,7 +1912,7 @@
     "period": "contemporary"
   },
   {
-    "id": 240,
+    "id": "240",
     "title": "Tout a par moy (rondeau)",
     "composer": "Frye, Walter",
     "voicing": "ATT",
@@ -1920,7 +1920,7 @@
     "period": "renaissance"
   },
   {
-    "id": 241,
+    "id": "241",
     "title": "Gais et Jolie",
     "composer": "Anonymous",
     "voicing": "ATB",
@@ -1936,7 +1936,7 @@
     "period": "renaissance"
   },
   {
-    "id": 243,
+    "id": "243",
     "title": "Little Dance Suite for Recorder Trio",
     "composer": "Stoker, Richard",
     "voicing": "SAT",
@@ -1944,7 +1944,7 @@
     "period": "contemporary"
   },
   {
-    "id": 244,
+    "id": "244",
     "title": "English madrigal - Cruel, you pull away too soon your lips",
     "composer": "Anonymous",
     "voicing": "SAT",
@@ -1952,7 +1952,7 @@
     "period": "baroque"
   },
   {
-    "id": 245,
+    "id": "245",
     "title": "Kyrie - Mass of Tournai",
     "composer": "Anonymous",
     "voicing": "ATT",
@@ -1960,7 +1960,7 @@
     "period": "14th century"
   },
   {
-    "id": 246,
+    "id": "246",
     "title": "Paduana + Galliarda",
     "composer": "Engelmann, Georg",
     "voicing": "SATB",
@@ -1968,7 +1968,7 @@
     "period": "baroque"
   },
   {
-    "id": 247,
+    "id": "247",
     "title": "Beata progenies, Beata viscera Marisa virginis",
     "composer": "Power, Lionel",
     "voicing": "ATT",
@@ -1976,7 +1976,7 @@
     "period": "13th century"
   },
   {
-    "id": 248,
+    "id": "248",
     "title": "Salvatoris Hodie",
     "composer": "Perotin",
     "voicing": "ATT",
@@ -1984,7 +1984,7 @@
     "period": "12th century"
   },
   {
-    "id": 249,
+    "id": "249",
     "title": "Entymology",
     "composer": "Alan Davis",
     "voicing": "SAT",
@@ -1992,7 +1992,7 @@
     "period": "contemporary"
   },
   {
-    "id": 250,
+    "id": "250",
     "title": "Ut re mi fa sol la",
     "composer": "Tiburtino, Guiiano",
     "voicing": "ATB",
@@ -2000,7 +2000,7 @@
     "period": "renaissance"
   },
   {
-    "id": 251,
+    "id": "251",
     "title": "Capriccio \"O Felici Occhi Miei\"",
     "composer": "Ruffo, Vincenzo",
     "voicing": "ATB",
@@ -2008,7 +2008,7 @@
     "period": "renaissance"
   },
   {
-    "id": 252,
+    "id": "252",
     "title": "O rosa bella",
     "composer": "Dunstable,John",
     "voicing": "ATT",
@@ -2016,7 +2016,7 @@
     "period": "renaissance"
   },
   {
-    "id": 253,
+    "id": "253",
     "title": "Motet: Quam pulchra es",
     "composer": "Dunstable,John",
     "voicing": "ATB",
@@ -2024,7 +2024,7 @@
     "period": "renaissance"
   },
   {
-    "id": 254,
+    "id": "254",
     "title": "Mes esperis",
     "composer": "Machaut",
     "voicing": "AAT",
@@ -2032,7 +2032,7 @@
     "period": "renaissance"
   },
   {
-    "id": 255,
+    "id": "255",
     "title": "Je ne puis vivre",
     "composer": "Busnois, Antoine",
     "voicing": "ATB",
@@ -2040,7 +2040,7 @@
     "period": "renaissance"
   },
   {
-    "id": 256,
+    "id": "256",
     "title": "Tres Doulx Regart, others",
     "composer": "Anthology",
     "voicing": "SAT",
@@ -2048,11 +2048,475 @@
     "period": "renaissance"
   },
   {
-    "id": 257,
+    "id": "257",
     "title": "Fantasia",
     "composer": "Lupo, Thomas",
     "voicing": "SAT",
     "edition": "arr. E.K.",
+    "period": "baroque"
+  },
+  {
+    "id": "258",
+    "title": "L'omme banni de sa plaisance",
+    "composer": "Barbingant",
+    "voicing": "ATB",
+    "edition": "photocopy",
+    "period": "renaissance"
+  },
+  {
+    "id": "259",
+    "title": "Three Dance Movements - Pavan",
+    "composer": "Holborne, Anthony",
+    "voicing": "SATTB",
+    "edition": "Associated Music Publishers",
+    "period": "baroque"
+  },
+  {
+    "id": "260",
+    "title": "Pange, lingua, gloriosi corporis mysterium",
+    "composer": "Senfl, Ludwig",
+    "voicing": "SAATB",
+    "edition": "photocopy",
+    "period": "renaissance"
+  },
+  {
+    "id": "261",
+    "title": "O generosa",
+    "composer": "Anonymous",
+    "voicing": "ATB",
+    "edition": "photocopy",
+    "period": "renaissance"
+  },
+  {
+    "id": "262",
+    "title": "Balada para un loco",
+    "composer": "Piazzolla, Astor",
+    "voicing": "SATB",
+    "edition": "PAN Verlag Gmbh",
+    "period": "contemporary"
+  },
+  {
+    "id": "263",
+    "title": "Intrada 2",
+    "composer": "Pezel, Johann",
+    "voicing": "SSATB",
+    "edition": "Gatineau",
+    "period": "baroque"
+  },
+  {
+    "id": "264",
+    "title": "Aria di corente seconda",
+    "composer": "Biumi, G.F.",
+    "voicing": "SATB",
+    "edition": "photocopy",
+    "period": "baroque"
+  },
+  {
+    "id": "265",
+    "title": "T'Andernaken",
+    "composer": "Brumel, Antoine",
+    "voicing": "ATB",
+    "edition": "photocopy",
+    "period": "renaissance"
+  },
+  {
+    "id": "266",
+    "title": "Oho, so geb' der Mann ein'n Pfenning, Hoscha, wenn woll' wir frohlich sein",
+    "composer": "Senfl, Ludwig",
+    "voicing": "SATB",
+    "edition": "Karen Snowberg",
+    "period": "renaissance"
+  },
+  {
+    "id": "267",
+    "title": "Freut euch des Herrn, ihr Christen all - Psalm 33",
+    "composer": "Schutz, Heinrich",
+    "voicing": "SATB",
+    "edition": "photocopy",
+    "period": "baroque"
+  },
+  {
+    "id": "268",
+    "title": "Non moriar",
+    "composer": "Senfl, Ludwig",
+    "voicing": "SATB",
+    "edition": "photocopy",
+    "period": "renaissance"
+  },
+  {
+    "id": "269",
+    "title": "Da Jakob nu das Kleid ansach",
+    "composer": "Senfl, Ludwig",
+    "voicing": "SSATB",
+    "edition": "photocopy",
+    "period": "renaissance"
+  },
+  {
+    "id": "270",
+    "title": "Galliard d'Ecose",
+    "composer": "Phalese, Pierre",
+    "voicing": "SATB",
+    "edition": "photocopy",
+    "period": "renaissance"
+  },
+  {
+    "id": "271",
+    "title": "Christ ist erstanden",
+    "composer": "Senfl, Ludwig",
+    "voicing": "SAATTB",
+    "edition": "photocopy",
+    "period": "renaissance"
+  },
+  {
+    "id": "272",
+    "title": "Senliche not fruh und spat",
+    "composer": "from Glogauer Liederbuch",
+    "voicing": "SAT",
+    "edition": "photocopy",
+    "period": "renaissance"
+  },
+  {
+    "id": "273",
+    "title": "Canzon II",
+    "composer": "unknown",
+    "voicing": "SSATB",
+    "edition": "Heinrichshofen",
+    "period": "baroque"
+  },
+  {
+    "id": "274",
+    "title": "Agnus Dei",
+    "composer": "Morley, Thomas",
+    "voicing": "SATB",
+    "edition": "photocopy",
+    "period": "baroque"
+  },
+  {
+    "id": "275",
+    "title": "Fuga IV",
+    "composer": "unknown",
+    "voicing": "SATB",
+    "edition": "photocopy",
+    "period": "baroque"
+  },
+  {
+    "id": "276",
+    "title": "Leoni",
+    "composer": "Goldstein, David",
+    "voicing": "SATB",
+    "edition": "transcribed John Gauger",
+    "period": "contemporary"
+  },
+  {
+    "id": "277",
+    "title": "Five Italian Ricercare",
+    "composer": "Anthology",
+    "voicing": "SATB",
+    "edition": "photocopy",
+    "period": "baroque"
+  },
+  {
+    "id": "278",
+    "title": "Carmen in la",
+    "composer": "Senfl, Ludwig",
+    "voicing": "SATB",
+    "edition": "photocopy",
+    "period": "renaissance"
+  },
+  {
+    "id": "279",
+    "title": "Canzon Sesta",
+    "composer": "unknown",
+    "voicing": "SATB",
+    "edition": "E.M. Nr. 2073",
+    "period": "baroque"
+  },
+  {
+    "id": "280",
+    "title": "The Harmonious Blockflute",
+    "composer": "Shannon, Glen",
+    "voicing": "SATBCb",
+    "edition": "ARS",
+    "period": "contemporary"
+  },
+  {
+    "id": "281",
+    "title": "Allegro from HWV 338",
+    "composer": "Handel, Georg Friedrich",
+    "voicing": "SATB",
+    "edition": "R.D. Tennent",
+    "period": "baroque"
+  },
+  {
+    "id": "282",
+    "title": "Reverie",
+    "composer": "Fischer, Mark",
+    "voicing": "SATB",
+    "edition": "ARS",
+    "period": "contemporary"
+  },
+  {
+    "id": "283",
+    "title": "La Bouree",
+    "composer": "Praetorius, Michael",
+    "voicing": "SATB",
+    "edition": "Terpsichore",
+    "period": "renaissance"
+  },
+  {
+    "id": "284",
+    "title": "Alman",
+    "composer": "Anonymous",
+    "voicing": "SATB",
+    "edition": "arr. Andrew Charlton",
+    "period": "renaissance"
+  },
+  {
+    "id": "285",
+    "title": "Fumeux fume par fumee",
+    "composer": "Solage",
+    "voicing": "BBB",
+    "edition": "photocopy - Clea",
+    "period": "1380"
+  },
+  {
+    "id": "286",
+    "title": "Trio (Op. 133/II)",
+    "composer": "Hook, James",
+    "voicing": "SAT",
+    "edition": "Dolce 321",
+    "period": "late baroque"
+  },
+  {
+    "id": "287",
+    "title": "Son me regarde - Prennes i garde - He mi enfant",
+    "composer": "Anonymous",
+    "voicing": "AAT",
+    "edition": "photocopy",
+    "period": "renaissance"
+  },
+  {
+    "id": "288",
+    "title": "Dances (Terpsichore?)",
+    "composer": "Anthology",
+    "voicing": "SATB",
+    "edition": "photocopy",
+    "period": "renaissance"
+  },
+  {
+    "id": "289",
+    "title": "Viderunt",
+    "composer": "Perotin",
+    "voicing": "TTT",
+    "edition": "Musica Sacra et Profana, Berkeley",
+    "period": "c. 1200"
+  },
+  {
+    "id": "290",
+    "title": "Paduanen und Galliarden zu funf Stimmen",
+    "composer": "Brade, Wilhelm",
+    "voicing": "SSATB",
+    "edition": "Moeck Verlag",
+    "period": "baroque"
+  },
+  {
+    "id": "291",
+    "title": "Cantus XXIV Galliard a 5 voc.",
+    "composer": "Scheidt, Samuel",
+    "voicing": "SSATB",
+    "edition": "EMP",
+    "period": "baroque"
+  },
+  {
+    "id": "292",
+    "title": "Pavana",
+    "composer": "Tomkins, Thomas",
+    "voicing": "SATTB",
+    "edition": "Z.f.S. 422",
+    "period": "baroque"
+  },
+  {
+    "id": "293",
+    "title": "Fantasia ritmica",
+    "composer": "Ziesmann, Egon",
+    "voicing": "SATB",
+    "edition": "photocopy",
+    "period": "contemporary"
+  },
+  {
+    "id": "294",
+    "title": "Vier Pavanen zu funf Stimmen",
+    "composer": "Tomkins, Thomas",
+    "voicing": "SATTB",
+    "edition": "Moeck Verlag",
+    "period": "baroque"
+  },
+  {
+    "id": "295",
+    "title": "Suite",
+    "composer": "Handel, Georg Friedrich",
+    "voicing": "ATB",
+    "edition": "Avondale Press",
+    "period": "baroque"
+  },
+  {
+    "id": "296",
+    "title": "Trio Sonatas",
+    "composer": "Mattheson, Johann",
+    "voicing": "AAA",
+    "edition": "photocopy",
+    "period": "baroque"
+  },
+  {
+    "id": "297",
+    "title": "Divertimento F-Dur",
+    "composer": "Haydn, Joseph",
+    "voicing": "SAT",
+    "edition": "photocopy",
+    "period": "baroque"
+  },
+  {
+    "id": "298",
+    "title": "Sonata a 3",
+    "composer": "Quantz, Johann",
+    "voicing": "AAA",
+    "edition": "photocopy",
+    "period": "late baroque"
+  },
+  {
+    "id": "299",
+    "title": "Almighty God which hast me brought",
+    "composer": "Ford, Thomas",
+    "voicing": "SATB",
+    "edition": "photocopy",
+    "period": "baroque"
+  },
+  {
+    "id": "300",
+    "title": "Mon coeur se recommande a voud",
+    "composer": "di Lasso (Lassus), Orlando",
+    "voicing": "SATB",
+    "edition": "arr.Gil Garty",
+    "period": "renaissance"
+  },
+  {
+    "id": "301",
+    "title": "Amarilli mia bella",
+    "composer": "Caccini, Giulio",
+    "voicing": "SATB",
+    "edition": "DOL 125-04",
+    "period": "renaissance"
+  },
+  {
+    "id": "302",
+    "title": "All my trials, Vre Haralambi",
+    "composer": "unknown",
+    "voicing": "SATB",
+    "edition": "photocopy",
+    "period": "contemporary?"
+  },
+  {
+    "id": "303",
+    "title": "Im Kanon",
+    "composer": "unknown",
+    "voicing": "SATB",
+    "edition": "Z.f.s. 633/634",
+    "period": "baroque"
+  },
+  {
+    "id": "304",
+    "title": "Sinfonia Terza",
+    "composer": "Rosenmuller, Johann",
+    "voicing": "SATTB",
+    "edition": "photocopy Gruskin",
+    "period": "baroque"
+  },
+  {
+    "id": "305",
+    "title": "Ce jour le doibt, aussi fait la saison",
+    "composer": "unknown",
+    "voicing": "ATT",
+    "edition": "photocopy",
+    "period": "renaissance"
+  },
+  {
+    "id": "306",
+    "title": "La bionda trecca, Echo la primavera",
+    "composer": "unknown",
+    "voicing": "TB",
+    "edition": "photocopy",
+    "period": "renaissance"
+  },
+  {
+    "id": "307",
+    "title": "May fait les bois",
+    "composer": "Le Jeune, Claude",
+    "voicing": "ATTB",
+    "edition": "photocopy",
+    "period": "renaissance"
+  },
+  {
+    "id": "308",
+    "title": "Sur la chanson populaire Alouette",
+    "composer": "Paubon, PIerre",
+    "voicing": "SATB",
+    "edition": "photocopy",
+    "period": "contemporary"
+  },
+  {
+    "id": "309",
+    "title": "Badinerie",
+    "composer": "Bach, J.S.",
+    "voicing": "SAT",
+    "edition": "photocopy",
+    "period": "baroque"
+  },
+  {
+    "id": "310",
+    "title": "Canzon \"La Lusignuola\"",
+    "composer": "Merula, Tarquinio",
+    "voicing": "SATB",
+    "edition": "photocopy",
+    "period": "baroque"
+  },
+  {
+    "id": "311",
+    "title": "Lieto Godea",
+    "composer": "Gabrieli, Giovanni",
+    "voicing": "SATB",
+    "edition": "London Pro Musica EML 118",
+    "period": "baroque"
+  },
+  {
+    "id": "312",
+    "title": "Allegro",
+    "composer": "Vivaldi, Antonio",
+    "voicing": "SATB",
+    "edition": "photocopy",
+    "period": "baroque"
+  },
+  {
+    "id": "313",
+    "title": "Cappriccio",
+    "composer": "Sweelinck",
+    "voicing": "SATB",
+    "edition": "photocopy",
+    "period": "renaissance"
+  },
+  {
+    "id": "314",
+    "title": "Galliard",
+    "composer": "Simpson, Thomas",
+    "voicing": "SATTB",
+    "edition": "photocopy",
+    "period": "baroque"
+  },
+  {
+    "id": "315",
+    "title": "Fugue in d",
+    "composer": "Pachelbel, Johann",
+    "voicing": "SATB",
+    "edition": "Eric Haas",
     "period": "baroque"
   }
 ]

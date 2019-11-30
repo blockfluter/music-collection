@@ -19,7 +19,7 @@ var db = new Storage({
   },
   persist: (v) => {
     return {
-      id: v.id,
+      id: ''+v.id,
       title: v.title,
       composer: v.composer,
       voicing: v.voicing,
